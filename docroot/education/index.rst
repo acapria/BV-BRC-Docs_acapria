@@ -1,6 +1,22 @@
 Education
 ========
 
+NOTES:
+In fact, I you could add a whole new section on the doc site, "Education" with multiple pages. here are few things that come to mind.
+Introduction
+How BV-BRC supports education and educators
+Introduction to Educational workspaces
+How to set up educational workspace
+Getting started
+Creating a workspace
+Organizing content
+Publishing workspace
+Notifying BV-BRC team
+How to access and use educational workspaces
+List of all educational workspaces
+How to use them for a class or course work
+Troubleshooting and getting help
+
 BV-BRC periodically offers live instructional webinars where users can participate and ask questions along the way. The webinars are recorded and made available for viewing afterward from the `BV-BRC YouTube Channel <https://www.youtube.com/channel/UCDkT2ZCWhK3GBtm5R-o1J4A>`_.
 
 Back to Basics Virus Series
