@@ -15,7 +15,7 @@ About the Webinar Series
 ----------------------------------------
 The NIAID-funded Bioinformatics Resource Centers provide sustainable, data-driven platforms, portable computational tools, and interoperability standards — all designed to serve the infectious diseases research community. Register now to hear monthly updates across the BRCs. 
 
-The series is recorded and uploaded to the BRC Consortium Youtube Channel and is `viewable here <https://www.youtube.com/watch?v=yspQZCHpJ5A&list=PL_N12rfaolzcsR_jmiQ42w-0ojvBV6cWF>`_
+The series is recorded and uploaded to the BRC Consortium Youtube Channel and is `viewable here <https://www.youtube.com/playlist?list=PL_N12rfaolzcsR_jmiQ42w-0ojvBV6cWF>`_
 
 
 
