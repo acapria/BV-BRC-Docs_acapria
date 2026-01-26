@@ -15,28 +15,39 @@ About the Webinar Series
 ----------------------------------------
 The NIAID-funded Bioinformatics Resource Centers provide sustainable, data-driven platforms, portable computational tools, and interoperability standards — all designed to serve the infectious diseases research community. Register now to hear monthly updates across the BRCs. 
 
+The series is recorded and uploaded to the BRC Consortium Youtube Channel and is `viewable here <https://www.youtube.com/watch?v=yspQZCHpJ5A&list=PL_N12rfaolzcsR_jmiQ42w-0ojvBV6cWF>`_
 
 
-Tentative Agenda
+
+Agenda
 ------------------------
 
 Rotating Schedule Across BRCs:
 
-* **October 10th**
-  
- Introduction to all 3 of our BRCs
+* **March 13th**
+ NIAID: Bulk data submission tool
 
-* **November 14th**
+* **February 13th**
 
-  BV-BRC Updates and new outbreak services
-
-* **December 12th**
-
-  BRC Analytics Updates
+ BV-BRC: Tree Sort Service
 
 * **January 9th**
 
-  PDN Updates
+  PDN Updates: Loculus Overview `Recording <https://youtu.be/3HOaftK_NeY?si=HyR_HOUlPCSIll47>`_
+
+* **December 12th**
+
+  BRC Analytics Updates: Fungal Genomics `Recordinng <https://youtu.be/yspQZCHpJ5A?si=tXDq-9BaCi8QIkYN>`_
+
+* **November 14th**
+
+  BV-BRC Updates and new outbreak services: Core Genome MLST and Whole Genome SNP Analysis `Recording <https://youtu.be/Rg5CnPV-pDU?si=g-u6Y7TulRRzQQk6>`_
+
+* **October 10th**
+  
+ Introduction to all 3 of our BRCs `Recording <https://youtu.be/l_nEfZkf234?si=T_BRkNxXLLeNkh3I>`_
+
+
 
 This agenda will be updated closer to each month with more information about the presentations for any given month.
 
