@@ -1,7 +1,7 @@
 # RNA-Seq Analysis Service
 
 ## Overview
-The RNA-Seq Analysis Service provides services for aligning, assembling, and testing differential expression on RNA-Seq data. The service provides two recipes for processing RNA-Seq data: 1) Tuxedo, based on the tuxedo suite of tools (i.e., Bowtie, Cufflinks, Cuffdiff); and 2) and HISAT2 for host (human, etc.) reference genomes. The service provides SAM/BAM output for alignment, tab delimited files profiling expression levels, and differential expression test results between conditions. A tutorial for using the RNA-Seq Analysis Service is available here.
+The RNA-Seq Analysis Service provides services for aligning, assembling, and testing differential expression on RNA-Seq data. The service provides three recipes for processing RNA-Seq data: 1) HTSeq-DESeq2 to identify differentially expressed genes; 2) Host HISAT2 for host (human, etc.) reference genomes; and 3) Tuxedo, based on the tuxedo suite of tools (i.e., Bowtie, Cufflinks, Cuffdiff). The service provides SAM/BAM output for alignment, tab delimited files profiling expression levels, and differential expression test results between conditions.
 
 The RNA-Seq Service can be accessed from the Services Menu at the top of the BV-BRC website page and via the Command Line Interface (CLI).
 
@@ -15,20 +15,22 @@ The **RNA-Seq Analysis** submenu option under the **Services** main menu (Transc
 ![RNA-Seq Analysis Menu](../images/bv_services_menu.png)
 
 ## Options
-![RNA-Seq Analysis Input Form](../images/rna-seq_analysis_input_form2.png) 
+![RNA-Seq Analysis Input Form](../images/rna_seq_input_form.png) 
 
 ## Parameters
 
 ### Strategy
 This parameter governs the software used to align, assemble, quantify, and compare reads from different samples.
 
-**Tuxedo:** Runs the [tuxedo
-strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html) using Bowtie2, Cufflinks, and CuffDiff to align, assemble, and compare samples respectively. This is a similar strategy as used by
-[RNA-Rocket](http://bioinformatics.oxfordjournals.org/content/31/9/1496).
+**HTSeq-DESeq2:** combines htseq-count to quantify raw sequencing reads per gene with [DESeq2 in R](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to identify differentially expressed genes. It takes aligned reads (BAM) and a annotation file (GFF/GTF) to generate a count matrix, which DESeq2 normalizes and analyzes for statistical significance. 
 
 **Host HISAT2:** Runs HISAT2 for alignment against the selected host and then uses the remainder of the [Tuxedo
 strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html)
 using Cufflinks and CuffDiff to assemble and compare samples respectively.
+
+**Tuxedo:** Runs the [tuxedo
+strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html) using Bowtie2, Cufflinks, and CuffDiff to align, assemble, and compare samples respectively. This is a similar strategy as used by
+[RNA-Rocket](http://bioinformatics.oxfordjournals.org/content/31/9/1496).
 
 ### Target Genome
 The target genome to align the reads against. If this genome is a private genome, the search can be narrowed by clicking on the filter icon under the words Target Genome.
@@ -39,11 +41,18 @@ The workspace folder where results will be placed.
 ### Output Name
 Name used to uniquely identify results.
 
-## Paired read library
+## Read Files
 
-### Read File 1 & 2
-Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are
-specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter. Click the arrow button (->) to move the files into the Selected Libraries to treat as a single RNA-Seq analysis.  See "Selected Libraries" description below. 
+The service provides three options for uploading read files: Paired read library, Single read library, and SRA run accession.
+
+### Paired read library
+Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter. Click the arrow button (->) to move the files into the Selected Libraries to treat as a single RNA-Seq analysis.  See "Selected Libraries" description below. 
+
+### Single read library
+For single read libraries. Click the arrow button (->) to move the files into the Selected Libraries to treat as a single RNA-Seq analysis.  See "Selected Libraries" description below.
+
+### SRA run accession
+As an alternative to uploading read files, an SRR Accession number can be provided and the service will automatically retrieve the associated read files at the NCBI Sequence Read Archive (SRA) at the time the service is run.
 
 ### Condition
 Dropdown list for selecting conditions to associate with the read files.  *Note:* The conditions are defined by the user in the Groups/Conditions section of the form (see below). The group/condition specified will be used to determine contrasts in the differential expression portion of the analysis. Each group will be compared to every other group in all vs. all fashion. Reads assigned to the same group will be used as replicates.
