@@ -22,13 +22,15 @@ The **RNA-Seq Analysis** submenu option under the **Services** main menu (Transc
 ### Strategy
 This parameter governs the software used to align, assemble, quantify, and compare reads from different samples.
 
-**Tuxedo:** Runs the [tuxedo
-strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html) using Bowtie2, Cufflinks, and CuffDiff to align, assemble, and compare samples respectively. This is a similar strategy as used by
-[RNA-Rocket](http://bioinformatics.oxfordjournals.org/content/31/9/1496).
+**HTSeq-DESeq2** combines htseq-count to quantify raw sequencing reads per gene with [DESeq2 in R](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to identify differentially expressed genes. It takes aligned reads (BAM) and a annotation file (GFF/GTF) to generate a count matrix, which DESeq2 normalizes and analyzes for statistical significance. 
 
 **Host HISAT2:** Runs HISAT2 for alignment against the selected host and then uses the remainder of the [Tuxedo
 strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html)
 using Cufflinks and CuffDiff to assemble and compare samples respectively.
+
+**Tuxedo:** Runs the [tuxedo
+strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html) using Bowtie2, Cufflinks, and CuffDiff to align, assemble, and compare samples respectively. This is a similar strategy as used by
+[RNA-Rocket](http://bioinformatics.oxfordjournals.org/content/31/9/1496).
 
 ### Target Genome
 The target genome to align the reads against. If this genome is a private genome, the search can be narrowed by clicking on the filter icon under the words Target Genome.
