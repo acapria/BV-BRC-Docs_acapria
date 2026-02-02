@@ -22,7 +22,7 @@ The **RNA-Seq Analysis** submenu option under the **Services** main menu (Transc
 ### Strategy
 This parameter governs the software used to align, assemble, quantify, and compare reads from different samples.
 
-**HTSeq-DESeq2** combines htseq-count to quantify raw sequencing reads per gene with [DESeq2 in R](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to identify differentially expressed genes. It takes aligned reads (BAM) and a annotation file (GFF/GTF) to generate a count matrix, which DESeq2 normalizes and analyzes for statistical significance. 
+**HTSeq-DESeq2:** combines htseq-count to quantify raw sequencing reads per gene with [DESeq2 in R](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) to identify differentially expressed genes. It takes aligned reads (BAM) and a annotation file (GFF/GTF) to generate a count matrix, which DESeq2 normalizes and analyzes for statistical significance. 
 
 **Host HISAT2:** Runs HISAT2 for alignment against the selected host and then uses the remainder of the [Tuxedo
 strategy](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html)
