@@ -41,11 +41,18 @@ The workspace folder where results will be placed.
 ### Output Name
 Name used to uniquely identify results.
 
-## Paired read library
+## Read Files
 
-### Read File 1 & 2
-Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are
-specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter. Click the arrow button (->) to move the files into the Selected Libraries to treat as a single RNA-Seq analysis.  See "Selected Libraries" description below. 
+The service provides three options for uploading read files: Paired read library, Single read library, and SRA run accession.
+
+### Paired read library
+Many paired read libraries are given as file pairs, with each file containing half of each read pair. Paired read files are expected to be sorted such that each read in a pair occurs in the same Nth position as its mate in their respective files. These files are specified as READ FILE 1 and READ FILE 2. For a given file pair, the selection of which file is READ 1 and which is READ 2 does not matter. Click the arrow button (->) to move the files into the Selected Libraries to treat as a single RNA-Seq analysis.  See "Selected Libraries" description below. 
+
+### Single read library
+For single read libraries. Click the arrow button (->) to move the files into the Selected Libraries to treat as a single RNA-Seq analysis.  See "Selected Libraries" description below.
+
+### SRA run accession
+As an alternative to uploading read files, an SRR Accession number can be provided and the service will automatically retrieve the associated read files at the NCBI Sequence Read Archive (SRA) at the time the service is run.
 
 ### Condition
 Dropdown list for selecting conditions to associate with the read files.  *Note:* The conditions are defined by the user in the Groups/Conditions section of the form (see below). The group/condition specified will be used to determine contrasts in the differential expression portion of the analysis. Each group will be compared to every other group in all vs. all fashion. Reads assigned to the same group will be used as replicates.
