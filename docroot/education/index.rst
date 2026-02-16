@@ -37,6 +37,7 @@ Troubleshooting and getting help
 
 BV-BRC periodically offers live instructional webinars where users can participate and ask questions along the way. The webinars are recorded and made available for viewing afterward from the `BV-BRC YouTube Channel <https://www.youtube.com/channel/UCDkT2ZCWhK3GBtm5R-o1J4A>`_.
 
+
 Introduction
 ---------------------------
 In congruence with servicing the biomedical research community via the development of robust, bioinformatic tools and services, the BV-BRC is equally commited to servicing the needs of our ever-growing community of educators. The *BV-BRC for Educators* community was formally organized to create a centralized network for the creation and publication of educational workspaces, exercises, and workflows by educators, for educators. *BV-BRC for Educators* will be used to support our educational community through:
@@ -47,10 +48,6 @@ In congruence with servicing the biomedical research community via the developme
 * **Internally-Managed HPC Systems**. Housed at Argonne National Lab, the high-performance computing systems used for running the BV-BRC analytical services are managed autonomously, allowing instructors to support large class sizes without needing to consider how to allocate their available computing power. 
 * **Support**. Most importantly, the BV-BRC team is readily available to provide support to eductors through our long-standing ticket submission system, as well as our BV-BRC Community Slack Channel. 
 
-* `How to Search for Data in the BV-BRC <https://www.youtube.com/watch?v=FCjAQPBG4po&list=PLWfOyhOW_OasplFHZWMZ_N4xDgZfA_EXi>`_
-* `How to Annotate Viral Genomes in BV-BRC <https://youtu.be/Qt78mzeG64E>`_
-* `How to Build Viral Phylogenetic Trees in the BV-BRC <https://youtu.be/14_8h0MkrvQ>`_
-* The final two will be posted soon.
 
 Getting Started
 ----------------------------------------------------------
