@@ -1,4 +1,5 @@
-![BV-BRC For Educators Logo](./images/BVBRC_for_Educators_Logo.png "BV-BRC For Educators Logo")
+.. image:: ./images/BVBRC_for_Educators_Logo.png
+   :alt: BV-BRC For Educators
 ========
 
 NOTES:
