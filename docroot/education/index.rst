@@ -39,7 +39,11 @@ BV-BRC periodically offers live instructional webinars where users can participa
 
 Introduction
 ---------------------------
- In congruence with servicing the biomedical research community via the development of robust, bioinformatic tools and services, the BV-BRC is equally commited to servicing the needs of our ever-growing community of educators. The *BV-BRC For Educators* community was formally developed 
+In congruence with servicing the biomedical research community via the development of robust, bioinformatic tools and services, the BV-BRC is equally commited to servicing the needs of our ever-growing community of educators. The *BV-BRC for Educators* community was formally organized to create a centralized network for the creation and publication of educational workspaces, exercises, and workflows by educators, for educators. *BV-BRC for Educators* will be used to support our educational community through:
+
+* **Open Access**. The BV-BRC provides users with free bioinformatic resources, open to all students and instructors registered with the platform. 
+* **Reproducibility**. The sharing of educational material through public workspaces allows for open access of workflows, exercise documents, and sample data, providing consistent results for both instructors and students. 
+* **A simple, graphical user interface**. 
 
 * `How to Search for Data in the BV-BRC <https://www.youtube.com/watch?v=FCjAQPBG4po&list=PLWfOyhOW_OasplFHZWMZ_N4xDgZfA_EXi>`_
 * `How to Annotate Viral Genomes in BV-BRC <https://youtu.be/Qt78mzeG64E>`_
