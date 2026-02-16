@@ -1,4 +1,4 @@
-![BV-BRC For Educators Logo](./images/BV-BRC For Educators Logo.png "BV-BRC For Educators Logo")
+![BV-BRC For Educators Logo](./images/BV-BRC_for_Educators_Logo.png "BV-BRC For Educators Logo")
 ========
 
 NOTES:
