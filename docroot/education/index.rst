@@ -39,7 +39,7 @@ BV-BRC periodically offers live instructional webinars where users can participa
 
 Introduction
 ---------------------------
- 
+ In congruence with servicing the biomedical research community via the development of robust, bioinformatic tools and services, the BV-BRC is equally commited to servicing the needs of our ever-growing community of educators. The *BV-BRC For Educators* community was formally developed 
 
 * `How to Search for Data in the BV-BRC <https://www.youtube.com/watch?v=FCjAQPBG4po&list=PLWfOyhOW_OasplFHZWMZ_N4xDgZfA_EXi>`_
 * `How to Annotate Viral Genomes in BV-BRC <https://youtu.be/Qt78mzeG64E>`_
@@ -53,7 +53,7 @@ Getting Started
 * `Finding & Analyzing Influenza Data in the BVBRC <https://youtu.be/A9Eu0pNWflM>`_
 * `Finding and Analyzing RSV Data in the BV-BRC <https://youtu.be/zD-vnUeT2e8>`_
 
-Monkeypox and Orthopoxvirus Mini Symposium
+Accessing Educator Workspaces
 ------------------------------------------
 **September 15, 2022**. BV-BRC organized the Monkeypox and Orthopoxvirus Mini Symposium in response to the global 2022 monkeypox virus outbreak. The presentations begins with a brief primer on monkeypox virus. Addtional topics include bioinformatic resources and tools currently available and in development for the purpose of studying monkeypox virus, as well as updates on the analysis of emerging MPXV genomes. (Click `here <https://www.bv-brc.org/docs/news/2022/20220907-monkeypox-and-orthopoxvirus-symposium.html>`__ to see the original webinar announcement and schedule).
 
