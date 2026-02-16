@@ -41,9 +41,11 @@ Introduction
 ---------------------------
 In congruence with servicing the biomedical research community via the development of robust, bioinformatic tools and services, the BV-BRC is equally commited to servicing the needs of our ever-growing community of educators. The *BV-BRC for Educators* community was formally organized to create a centralized network for the creation and publication of educational workspaces, exercises, and workflows by educators, for educators. *BV-BRC for Educators* will be used to support our educational community through:
 
-* **Open Access**. The BV-BRC provides users with free bioinformatic resources, open to all students and instructors registered with the platform. 
+* **Accessiblity**. The BV-BRC provides users with free bioinformatic resources, open to all students and instructors registered with the platform. 
 * **Reproducibility**. The sharing of educational material through public workspaces allows for open access of workflows, exercise documents, and sample data, providing consistent results for both instructors and students. 
-* **A simple, graphical user interface**. 
+* **A GUI Platform**. Our platform prides itself on providing users with dozens of bioinformatic tools, along with millions of curated bacterial and viral genomes, within a simple, graphical user interface. Concomitantly, this provides our educational community with a means of integrating bioinformatics into their course curricula without requiring the prerequisites necessary for using traditional bioinformatic tools, such as statistics and experience utilizing a command line interface. 
+* **Internally-Managed HPC Systems**. Housed at Argonne National Lab, the high-performance computing systems used for running the BV-BRC analytical services are managed autonomously, allowing instructors to support large class sizes without needing to consider how to allocate their available computing power. 
+* **Support**. Most importantly, the BV-BRC team is readily available to provide support to eductors through our long-standing ticket submission system, as well as our BV-BRC Community Slack Channel. 
 
 * `How to Search for Data in the BV-BRC <https://www.youtube.com/watch?v=FCjAQPBG4po&list=PLWfOyhOW_OasplFHZWMZ_N4xDgZfA_EXi>`_
 * `How to Annotate Viral Genomes in BV-BRC <https://youtu.be/Qt78mzeG64E>`_
