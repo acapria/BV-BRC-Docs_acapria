@@ -49,7 +49,7 @@ In congruence with servicing the biomedical research community via the developme
 * **Support**. Most importantly, the BV-BRC team is readily available to provide support to eductors through our long-standing ticket submission system, as well as our BV-BRC Community Slack Channel. 
 
 
-Getting Started
+Create and Publish an Education Workspace
 ----------------------------------------------------------
 **November 29 and December 13, 2022** The BV-BRC team offered two Bioinformatics webinars covering the data types available for Respiratory Syncytial Virus (RSV) and Influenza Virus that can be found in the Bacterial and Viral Bioinformatics Research Center (BV-BRC) database. Several tools and services that can be used for RSV bioinformatic analysis were demonstrated. (Click `here <https://www.bv-brc.org/docs/news/2022/20221122-rsv-and-influenza-webinars.html>`__ to see the original webinar announcement and schedule).
 
