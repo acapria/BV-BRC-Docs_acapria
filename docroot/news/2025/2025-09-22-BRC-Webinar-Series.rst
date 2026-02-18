@@ -15,7 +15,7 @@ About the Webinar Series
 ----------------------------------------
 The NIAID-funded Bioinformatics Resource Centers provide sustainable, data-driven platforms, portable computational tools, and interoperability standards — all designed to serve the infectious diseases research community. Register now to hear monthly updates across the BRCs. 
 
-The series is recorded and uploaded to the BRC Consortium Youtube Channel and is `viewable here <https://www.youtube.com/watch?v=yspQZCHpJ5A&list=PL_N12rfaolzcsR_jmiQ42w-0ojvBV6cWF>`_
+The series is recorded and uploaded to the BRC Consortium Youtube Channel and is `viewable here <https://youtube.com/playlist?list=PL_N12rfaolzcsR_jmiQ42w-0ojvBV6cWF&si=G8AbXWz8BcNXCsc1>`_
 
 
 
@@ -23,13 +23,18 @@ Agenda
 ------------------------
 
 Rotating Schedule Across BRCs:
+* **May 8th**
+PDN: Viralzone Presentation
+
+* **April 10th**
+BRC Analytics Presentation
 
 * **March 13th**
- NIAID: Bulk data submission tool
+ NCBI: Genbank and SRA Data Submission - Special hour long session
 
 * **February 13th**
 
- BV-BRC: Tree Sort Service
+ BV-BRC: Influenza Reassortment Analysis Service running USDA Flu Crew's TreeSort tool `Recording <https://youtu.be/IkyG90thRik?si=ifwaCa6rW0bR6vbN>`_
 
 * **January 9th**
 
