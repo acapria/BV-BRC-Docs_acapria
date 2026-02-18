@@ -23,13 +23,18 @@ Agenda
 ------------------------
 
 Rotating Schedule Across BRCs:
+* **May 8th**
+PDN: Viralzone Presentation
+
+* **April 10th**
+BRC Analytics Presentation
 
 * **March 13th**
- NIH: Genbank and SRA Submission
+ NCBI: Genbank and SRA Data Submission - Special hour long session
 
 * **February 13th**
 
- BV-BRC: Tree Sort Service `Recording <https://youtu.be/IkyG90thRik?si=ifwaCa6rW0bR6vbN>`_
+ BV-BRC: Influenza Reassortment Analysis Service running USDA Flu Crew's TreeSort tool `Recording <https://youtu.be/IkyG90thRik?si=ifwaCa6rW0bR6vbN>`_
 
 * **January 9th**
 
