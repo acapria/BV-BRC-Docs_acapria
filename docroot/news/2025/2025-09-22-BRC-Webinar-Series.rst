@@ -23,11 +23,12 @@ Agenda
 ------------------------
 
 Rotating Schedule Across BRCs:
+
 * **May 8th**
-PDN: Viralzone Presentation
+PDN: Viralzone Presentation 
 
 * **April 10th**
-BRC Analytics Presentation
+Differential Gene Expression with BRC Analytics
 
 * **March 13th**
  NCBI: Genbank and SRA Data Submission - Special hour long session
