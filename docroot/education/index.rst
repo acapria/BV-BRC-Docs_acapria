@@ -26,7 +26,6 @@ Although we do not have strict guidelines, to ease the use of your workspace by 
 
 .. image:: ./images/Education_Workspace_Directory.png
    :alt:Education Workspace
-========
 
 
 **Publishing Your Workspace**
