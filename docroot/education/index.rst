@@ -2,42 +2,6 @@
    :alt: BV-BRC For Educators
 ========
 
-NOTES:
-In fact, I you could add a whole new section on the doc site, "Education" with multiple pages. here are few things that come to mind.
-
-Introduction
-
-How BV-BRC supports education and educators
-
-Introduction to Educational workspaces
-
-How to set up educational workspace
-
-Getting started
-
-  Creating a workspace
-
-  Organizing content
-
-  Publishing workspace
-
-  Notifying BV-BRC team
-
-How to access and use educational workspaces
-
-  List of all educational workspaces
-
-How to use them for a class or course work
-
-Troubleshooting and getting help
-
-* Put together for webinar
-* Expecting to do in May 
-* Shout out in Tools for Tomorrow Webinar
-
-BV-BRC periodically offers live instructional webinars where users can participate and ask questions along the way. The webinars are recorded and made available for viewing afterward from the `BV-BRC YouTube Channel <https://www.youtube.com/channel/UCDkT2ZCWhK3GBtm5R-o1J4A>`_.
-
-
 Introduction
 ---------------------------
 In congruence with servicing the biomedical research community via the development of robust, bioinformatic tools and services, the BV-BRC is equally commited to servicing the needs of our ever-growing community of educators. The *BV-BRC for Educators* community was formally organized to create a centralized network for the creation and publication of educational workspaces, exercises, and workflows by educators, for educators. *BV-BRC for Educators* will be used to support our educational community through:
@@ -66,8 +30,9 @@ Like a normal workspace, creating an education workspace follows the same proces
 
 Accessing Educator Workspaces
 ------------------------------------------
+List of all educational workspaces
 
 
-Troubleshooting and getting help
+Troubleshooting and Getting Help
 ------------------------------------------
 
