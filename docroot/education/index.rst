@@ -24,7 +24,7 @@ Like a normal workspace, creating an education workspace follows the same proces
 
 Although we do not have strict guidelines, to ease the use of your workspace by instructors and students, we **highly recommend** following our recommended format. 
 
-.. image:: ./images/Education_Workspace_Directory.png
+image:: ./images/Education_Workspace_Directory.png
    :alt:Education Workspace
 
 
