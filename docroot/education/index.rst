@@ -26,7 +26,7 @@ Although we do not have strict guidelines, to ease the use of your workspace by 
 
 .. image:: ./images/Education_Workspace_Directory.png
    
-
+The images above provide an example layout for organizing your education workspace. This public education workspace can be accessed `here <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago>`_. 
 
 **Publishing Your Workspace**
 
