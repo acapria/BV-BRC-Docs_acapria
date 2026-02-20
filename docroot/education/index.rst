@@ -51,8 +51,7 @@ In congruence with servicing the biomedical research community via the developme
 
 Create and Publish an Education Workspace
 ----------------------------------------------------------
-
-**Creating a Public Education Workspace**
+Like a normal workspace, creating an education workspace follows the same process. For a step-by-step walkthrough for creating and sharing a new workspace can be accessed 'here <https://www.bv-brc.org/docs//quick_references/workspaces/workspace.html>'.
 
 
 * `Finding & Analyzing Influenza Data in the BVBRC <https://youtu.be/A9Eu0pNWflM>`_
