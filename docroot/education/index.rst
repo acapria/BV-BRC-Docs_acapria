@@ -22,6 +22,8 @@ Like a normal workspace, creating an education workspace follows the same proces
 
 **Organizing Your Content**
 
+Although we do not have strict guidelines, to ease the use of your workspace by instructors and students, we **highly recommend** following our recommended format. 
+
 
 **Publishing Your Workspace**
 
