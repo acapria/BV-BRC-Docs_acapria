@@ -51,7 +51,9 @@ In congruence with servicing the biomedical research community via the developme
 
 Create and Publish an Education Workspace
 ----------------------------------------------------------
-**November 29 and December 13, 2022** The BV-BRC team offered two Bioinformatics webinars covering the data types available for Respiratory Syncytial Virus (RSV) and Influenza Virus that can be found in the Bacterial and Viral Bioinformatics Research Center (BV-BRC) database. Several tools and services that can be used for RSV bioinformatic analysis were demonstrated. (Click `here <https://www.bv-brc.org/docs/news/2022/20221122-rsv-and-influenza-webinars.html>`__ to see the original webinar announcement and schedule).
+
+**Creating a Public Education Workspace**
+
 
 * `Finding & Analyzing Influenza Data in the BVBRC <https://youtu.be/A9Eu0pNWflM>`_
 * `Finding and Analyzing RSV Data in the BV-BRC <https://youtu.be/zD-vnUeT2e8>`_
