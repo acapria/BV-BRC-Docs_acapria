@@ -17,6 +17,7 @@ Create and Publish an Education Workspace
 ----------------------------------------------------------
 
 **Creating a Workspace**
+
 Like a normal workspace, creating an education workspace follows the same process. A step-by-step walkthrough for creating a new workspace can be accessed `here <https://www.bv-brc.org/docs//quick_references/workspaces/workspace.html>`_.
 
 **Organizing Your Content**
