@@ -130,7 +130,7 @@ All public education workspaces can be found within the inventory of `publc work
 
 
 .. list-table:: Sample List-Table
-   :widths: 25 25 50
+   :widths: 50 50
    :header-rows: 1
 
    * - Workspace Title
@@ -139,7 +139,7 @@ All public education workspaces can be found within the inventory of `publc work
      - Jamal Sheriff
    * - Row 2, Column 1
      - Row 2, Column 2
-     - Row 2, Column 3
+
 
 Getting Help
 ------------------------------------------
