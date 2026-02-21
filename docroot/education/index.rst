@@ -142,6 +142,11 @@ All public education workspaces can be found within the inventory of `publc work
 | Row 2, Column 1        | Row 2, C2  | R2, C3   | R2, C4   |
 +------------------------+------------+----------+----------+
 
+Header 1    Header 2    Header 3
+========    ========    ========
+Row 1, C1   Row 1, C2   Row 1, C3
+Row 2, C1   Row 2, C2   Row 2, C3
+
 Getting Help
 ------------------------------------------
 
