@@ -18,15 +18,15 @@ Create and Publish an Education Workspace
 
 **1) Creating a Workspace**
 
-Like a normal workspace, creating an education workspace follows the same process. A step-by-step walkthrough for creating a new workspace can be accessed `here <https://www.bv-brc.org/docs//quick_references/workspaces/workspace.html>`_.
+Creating an education workspace follows the same process creating a private workspace. A step-by-step walkthrough for creating a new workspace can be accessed `here <https://www.bv-brc.org/docs//quick_references/workspaces/workspace.html>`_.
 
 **2) Organizing Your Content**
 
-Although we do not have strict guidelines, to ease the use of your workspace by instructors and students, we **highly recommend** following our recommended format. 
+To ease the use of your workspace by instructors and students, we recommended the following format:
 
 .. image:: ./images/Education_Workspace_Directory.png
    
-The images above provide an example layout for organizing your education workspace. This public education workspace can be accessed `here <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago>`_. 
+The images above shows an example layout for organizing your education workspace. This public education workspace can be accessed `here <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago>`_. 
 
 Image **A** shows the contents of the primary, course-level directory for the workspace, titled: "BIOS 450 - Advanced Microbiology - Univ. of Illinois at Chicago". To provide other educators with minimal context on the contents of your workspace, the workspace title should include the course nomenclature - the course title - the course's institution. This directory is where your exercise directories are stored, with each each exercise having its own directory. In this case, there is only one execerise included in this public education workspace. 
 
