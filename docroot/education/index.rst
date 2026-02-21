@@ -105,6 +105,8 @@ The educator workspace ReadME file is designed to provide a general overview of 
 
 **Publishing Your Workspace**
 
+Currently, publishing an education workspace is done in the same fashion as pubicizing a regular, private workspace. A step-by-step tutorial on publishing a private workspace can be accessed `here <https://www.bv-brc.org/docs//quick_references/workspaces/workspace.html>`_.
+
 
 **Notifying the BV-BRC**
 
