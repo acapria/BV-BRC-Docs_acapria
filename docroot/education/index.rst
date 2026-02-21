@@ -126,8 +126,10 @@ Once you have published your education workspace, you will need to contact the B
 
 Accessing Education Workspaces
 ------------------------------------------
-List of all educational workspaces
+All public education workspaces can be found within the inventory of `publc workspaces <https://www.bv-brc.org/workspace/public>`_ located on our website. Below, you can find the current list of public education workspaces being hosted. Don't see your education workspace on here? Please contact us!
 
+| Workspace Title | Publisher |
+|------------------|-----------|
 
 Getting Help
 ------------------------------------------
