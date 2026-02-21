@@ -43,15 +43,21 @@ Image **B** shows the contents of the secondary, exercise-level directory, title
 A README Template docx filec and be downloaded from `here <https://docs.google.com/document/d/1Jd5J82dnqWuW_2xU6ZwcAzKIKpX-e4Xj/edit?usp=sharing&ouid=108904723406190559319&rtpof=true&sd=true>`_. An example README file for the above exercise can be viewed `here <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/Comparing%20AMR%20genes%20between%20domestic%20and%20wild%20animal%20populations/README.pdf>`_.
 
 
+
 "
 
 The educator workspace ReadME file is designed to provide a general overview of the exercise, facilitating the sharing and use of BV-BRC exercises among the educator community. To publish an educator workspace, a ReadMe file is **required for each exercise within a workspace**, with the following information included:
 
 **Corresponding Educator(s)**: the name, email, and institution of at least one educator to contact regarding the exercise.
+
 **Overview**: a brief overview of the exercise
+
 **Learning Objectives**: the learning objectives and goals of the exercise
+
 **Files**: a list of folders and files included within the exercise. Each exercise should be organized into three folders: (1) Documentation, (2) Job Outputs, and (3) Sample Data. 
+
 **Services**: Services used for this exercise
+
 **References**: Any sources used to develop this exercise (e.g., non-BV-BRC tools, sample data, related publications, etc.)
   
 **Corresponding Educator(s)**
