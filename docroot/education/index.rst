@@ -30,7 +30,7 @@ The images above show an example layout for organizing your education workspace.
 
 Image **A** shows the contents of the primary, course-level directory for the workspace, titled: "BIOS 450 - Advanced Microbiology - Univ. of Illinois at Chicago". To provide other educators with minimal context on the contents of your workspace, the workspace title should include the course nomenclature - the course title - the course's institution. This directory is where your exercise directories are stored, with each each exercise having its own directory. In this case, there is only one execerise included in this education workspace. 
 
-Image **B** shows the contents of the secondary, exercise-level directory, titled: "Comparing AMR genes between domestic and wild animal populations". The title should be that of the exercise itself. All exercise directories share the same, following recommended format:
+Image **B** shows the contents of the secondary, exercise-level directory, titled: "Comparing AMR genes between domestic and wild animal populations". The title should be the title of the exercise. All exercise directories share the same, recommended format:
 
 * **Documentation** directory - contains all the necessary documentation for the exercise, such as exercise handouts, exercise questions, and relevant powerpoint slides. Whatever material your students require to be able to successfully complete the exercise is what should be uploaded to this directory. 
 
