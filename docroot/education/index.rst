@@ -63,7 +63,7 @@ The educator workspace ReadME file is designed to provide a general overview of 
 .. role:: underline
     :class: underline
 
-:underline: `**Corresponding Educator(s)**`
+.. :underline: `**Corresponding Educator(s)**`
 
 [Insert list of corresponding educators]
 
