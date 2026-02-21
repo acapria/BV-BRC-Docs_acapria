@@ -60,12 +60,12 @@ The educator workspace ReadME file is designed to provide a general overview of 
 
 **References**: Any sources used to develop this exercise (e.g., non-BV-BRC tools, sample data, related publications, etc.)
 
-.. role:: underline
-    :class: underline
 
-:underline: `Corresponding Educator(s)`
+
+**Corresponding Educator(s)**
 
 [Insert list of corresponding educators]
+
 
 **Overview**
 
@@ -74,6 +74,7 @@ The educator workspace ReadME file is designed to provide a general overview of 
 **Learning Objectives** 
 
 [Insert learning objective 1]
+
 
 **Files**
 
@@ -85,6 +86,7 @@ The educator workspace ReadME file is designed to provide a general overview of 
 
 * Sample Data
    * [File name/directory name: brief file description]
+
 
 **Services**
 
@@ -114,6 +116,3 @@ Troubleshooting and Getting Help
 
 
 
-.underline {
-    text-decoration: underline;
-}
