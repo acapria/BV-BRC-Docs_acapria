@@ -17,11 +17,11 @@ In congruence with servicing the biomedical research community via the developme
 Create and Publish an Education Workspace
 ----------------------------------------------------------
 
-**Creating a Workspace**
+**1) Creating a Workspace**
 
 Like a normal workspace, creating an education workspace follows the same process. A step-by-step walkthrough for creating a new workspace can be accessed `here <https://www.bv-brc.org/docs//quick_references/workspaces/workspace.html>`_.
 
-**Organizing Your Content**
+**2) Organizing Your Content**
 
 Although we do not have strict guidelines, to ease the use of your workspace by instructors and students, we **highly recommend** following our recommended format. 
 
@@ -103,15 +103,20 @@ The educator workspace ReadME file is designed to provide a general overview of 
 "
 
 
-**Publishing Your Workspace**
+**3) Publishing Your Workspace**
 
 Currently, publishing an education workspace is done in the same fashion as pubicizing a regular, private workspace. A step-by-step tutorial on publishing a private workspace can be accessed `here <https://www.bv-brc.org/docs//quick_references/workspaces/workspace.html>`_.
 
 
-**Notifying the BV-BRC**
 
+**4) Notifying the BV-BRC**
 
-Accessing Educator Workspaces
+Once you have published your education workspace, you will need to contact the BV-BRC in order to have your workspace added to our list of public education workspaces (see **Accessing Education Workspaces** below). You can contact us via two ways:
+   **a. Directly email a BV-BRC outreach team member**
+   Contact a member of our outreach team to let us know you wish to have your workspace added to the public list. Be sure to include to
+   title of your workspace within your email, and that the workspace contains the required material as outlined above. 
+
+Accessing Education Workspaces
 ------------------------------------------
 List of all educational workspaces
 
