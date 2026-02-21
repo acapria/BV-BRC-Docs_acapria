@@ -28,6 +28,20 @@ Although we do not have strict guidelines, to ease the use of your workspace by 
    
 The images above provide an example layout for organizing your education workspace. This public education workspace can be accessed `here <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago>`_. 
 
+Image **A** shows the contents of the primary, course-level directory for the workspace, titled: "BIOS 450 - Advanced Microbiology - Univ. of Illinois at Chicago". To provide other educators with minimal context on the contents of your workspace, the workspace title should include the course nomenclature - the course title - the course's institution. This directory is where your exercise directories are stored, with each each exercise having its own directory. In this case, there is only one execerise included in this public education workspace. 
+
+Image **B** shows the contents of the secondary, exercise-level directory, titled: "Comparing AMR genes between domestic and wild animal populations". The title should be that of the exercise itself. All exercise directories share the same, following recommended format:
+
+* **Documentation** directory - contains all the necessary documentation for the exercise, such as exercise handouts, exercise questions, and relevant powerpoint slides. Whatever material your students require to be able to successfully complete the exercise is what should be uploaded to this directory. 
+
+* **Job Outputs** directory - contains the *example* job outputs for your exercise. Example job outputs are excellent for those who wish to do a live walkthrough the exercise with your class, allowing your class to practicing submitting analysis jobs, yet not having to wait for the job to finish running in order to walkthrough interpreting the job results. Test jobs or any job results that may give away unwanted answers to your exercise, should be excluded from this directory.
+
+* **Sample Data** directory - contains all the necessary sample data files needed to complete the exercise, such raw reads (FASTQ files), contigs (FASTA files), genome groups, or feature groups. 
+
+* **README** File - required for **each** exercise, the README file contains the background information and learning objectives of the exercise, as well as a brief description of all directories and files within the exercise directory. README files can be uploaded as either docx or pdf files. To make searching workspaces easier for other insructors, we recommend uploading the README as a PDF, since viewing PDF files is supported directly within the BV-BRC workspace. Docx files will need to be downloaded to view. 
+
+
+
 **Publishing Your Workspace**
 
 
