@@ -1,3 +1,5 @@
+.. role:: underline
+
 .. image:: ./images/BVBRC_for_Educators_Logo.png
    :alt: BV-BRC For Educators
 ========
@@ -62,7 +64,7 @@ The educator workspace ReadME file is designed to provide a general overview of 
 
 
 
-**Corresponding Educator(s)**
+:underline:`**Corresponding Educator(s)**`
 
 [Insert list of corresponding educators]
 
