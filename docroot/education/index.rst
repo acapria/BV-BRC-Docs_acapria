@@ -97,7 +97,7 @@ The educator workspace ReadME file is designed to provide a general overview of 
 
 **References**
 
-[Insert bibliography for necessary references (e.g., references for published sample data)]
+[Insert bibliography for necessary references]
 
 "
 
