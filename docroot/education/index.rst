@@ -144,6 +144,10 @@ All public education workspaces can be found within the inventory of `publc work
 Getting Help
 ------------------------------------------
 
-For **help with using BV-BRC services and tools**, please visit the BV-BRC Documentation `Website <https://www.bv-brc.org/docs/>`_ to review our quick reference guides and tutorials. Walkthrough and workshop videos can be viewed on the BV-BRC `Youtube <https://www.youtube.com/@BVBRC>`_ Channel. Questions regarding job submission failures should be submitted through our ticketing system with the `**Report Issue** action button <https://www.bv-brc.org/docs/quick_references/workspaces/jobs.html>`_. 
+For **help with using BV-BRC services and tools**, please visit the BV-BRC Documentation `Website <https://www.bv-brc.org/docs/>`_ to review our quick reference guides and tutorials. Walkthrough and workshop videos can be viewed on the BV-BRC Youtube `Channel <https://www.youtube.com/@BVBRC>`_. Questions regarding job submission failures should be submitted through our ticketing system with the `Report Issue <https://www.bv-brc.org/docs/quick_references/workspaces/jobs.html>`_ action button. 
+
+For **help with your education workspace, or with questions about using the BV-BRC in your classroom**, please contact one of the BV-BRC outream team members listed above. 
+
+**Join the BV-BRC Community Slack Workspace** `(bv-brc-community.slack.com) <https://join.slack.com/t/bv-brc-community/shared_invite/zt-3qhnzncqv-vU94_qdpZLqiHaSGnmDwLg>`_ to ask questions directly to the BV- BRC team and discuss with other members of the education community through our #education Slack channel. 
 
 
