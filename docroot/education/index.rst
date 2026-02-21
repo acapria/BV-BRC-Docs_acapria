@@ -128,35 +128,15 @@ Accessing Education Workspaces
 ------------------------------------------
 All public education workspaces can be found within the inventory of `publc workspaces <https://www.bv-brc.org/workspace/public>`_ located on our website. Below, you can find the current list of public education workspaces being hosted. Don't see your education workspace on here? Please contact us!
 
-| Workspace Title | Publisher |
-|------------------|-----------|
-
-+------------------------+------------+----------+----------+
-
-| Header 1               | Header 2   | Header 3 | Header 4 |
-+========================+============+==========+==========+
-
-| Row 1, Column 1        | Row 1, C2  | R1, C3   | R1, C4   |
-+------------------------+------------+----------+----------+
-
-| Row 2, Column 1        | Row 2, C2  | R2, C3   | R2, C4   |
-+------------------------+------------+----------+----------+
-
-Header 1    Header 2    Header 3
-========    ========    ========
-Row 1, C1   Row 1, C2   Row 1, C3
-Row 2, C1   Row 2, C2   Row 2, C3
 
 .. list-table:: Sample List-Table
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Header 1
-     - Header 2
-     - Header 3
-   * - Row 1, Column 1
-     - Row 1, Column 2
-     - Row 1, Column 3
+   * - Workspace Title
+     - Publisher
+   * - `BIOS 450 - Advanced Microbiology - Univ. of Illinois at Chicago <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago>`_
+     - Jamal Sheriff
    * - Row 2, Column 1
      - Row 2, Column 2
      - Row 2, Column 3
