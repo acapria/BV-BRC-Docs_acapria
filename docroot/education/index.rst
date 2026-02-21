@@ -44,6 +44,7 @@ A README Template docx filec and be downloaded from `here <https://docs.google.c
 
 
 "
+
 The educator workspace ReadME file is designed to provide a general overview of the exercise, facilitating the sharing and use of BV-BRC exercises among the educator community. To publish an educator workspace, a ReadMe file is **required for each exercise within a workspace**, with the following information included:
 
 **Corresponding Educator(s)**: the name, email, and institution of at least one educator to contact regarding the exercise.
@@ -68,18 +69,21 @@ The educator workspace ReadME file is designed to provide a general overview of 
 **Files**
 
 * Documentation
-
    * [File name/directory name: brief file description]
-Job Outputs
-[File name/directory name: brief file description]
-Sample Data
-[File name/directory name: brief file description]
 
-Services
+* Job Outputs
+   * [File name/directory name: brief file description]
+
+* Sample Data
+   * [File name/directory name: brief file description]
+
+**Services**
+
 [Insert service(s) used] 
 
 
-References
+**References**
+
 [Insert bibliography for necessary references (e.g., references for published sample data)]
 
 
