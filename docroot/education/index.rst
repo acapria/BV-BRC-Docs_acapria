@@ -22,7 +22,7 @@ Creating an education workspace follows the same process creating a private work
 
 **2) Organizing Your Content**
 
-To ease the use of your workspace by instructors and students, we recommended the following format:
+To ease the use of your workspace by instructors and students, we recommend the following format:
 
 .. image:: ./images/Education_Workspace_Directory.png
    
