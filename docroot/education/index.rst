@@ -147,6 +147,20 @@ Header 1    Header 2    Header 3
 Row 1, C1   Row 1, C2   Row 1, C3
 Row 2, C1   Row 2, C2   Row 2, C3
 
+.. list-table:: Sample List-Table
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Header 1
+     - Header 2
+     - Header 3
+   * - Row 1, Column 1
+     - Row 1, Column 2
+     - Row 1, Column 3
+   * - Row 2, Column 1
+     - Row 2, Column 2
+     - Row 2, Column 3
+
 Getting Help
 ------------------------------------------
 
