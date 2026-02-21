@@ -54,7 +54,7 @@ The educator workspace ReadME file is designed to provide a general overview of 
 **References**: Any sources used to develop this exercise (e.g., non-BV-BRC tools, sample data, related publications, etc.)
   
 **Corresponding Educator(s)**
-**---------------------------**
+---------------------------
 [Insert list of corresponding educators]
 
 Overview 
