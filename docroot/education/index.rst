@@ -54,18 +54,17 @@ The educator workspace ReadME file is designed to provide a general overview of 
 **References**: Any sources used to develop this exercise (e.g., non-BV-BRC tools, sample data, related publications, etc.)
   
 **Corresponding Educator(s)**
----------------------------
 [Insert list of corresponding educators]
 
-Overview 
+**Overview**
 [Insert description of exercise overview]
 
-Learning Objectives 
+**Learning Objectives** 
 [Insert learning objective 1]
 
-Files
-Documentation
-[File name/directory name: brief file description]
+**Files**
+* Documentation
+** [File name/directory name: brief file description]
 Job Outputs
 [File name/directory name: brief file description]
 Sample Data
