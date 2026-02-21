@@ -1,4 +1,3 @@
-.. role:: underline
 
 .. image:: ./images/BVBRC_for_Educators_Logo.png
    :alt: BV-BRC For Educators
@@ -99,7 +98,7 @@ The educator workspace ReadME file is designed to provide a general overview of 
 
 [Insert bibliography for necessary references (e.g., references for published sample data)]
 
-
+"
 
 
 **Publishing Your Workspace**
