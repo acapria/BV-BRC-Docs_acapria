@@ -69,7 +69,7 @@ The educator workspace ReadME file is designed to provide a general overview of 
 
 * Documentation
 
-** [File name/directory name: brief file description]
+   * [File name/directory name: brief file description]
 Job Outputs
 [File name/directory name: brief file description]
 Sample Data
