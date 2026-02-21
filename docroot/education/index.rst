@@ -137,8 +137,8 @@ All public education workspaces can be found within the inventory of `publc work
      - Publisher
    * - `BIOS 450 - Advanced Microbiology - Univ. of Illinois at Chicago <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago>`_
      - Jamal Sheriff
-   * - Row 2, Column 1
-     - Row 2, Column 2
+   * - `BIOS 350 - General Microbiology - Univ. of Illinois at Chicago <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20350%20-%20General%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago>`_
+     - Jamal Sheriff
 
 
 Getting Help
