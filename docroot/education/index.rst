@@ -44,6 +44,8 @@ Image **B** shows the contents of the secondary, exercise-level directory, title
 A README Template docx filec and be downloaded from `here <https://docs.google.com/document/d/1Jd5J82dnqWuW_2xU6ZwcAzKIKpX-e4Xj/edit?usp=sharing&ouid=108904723406190559319&rtpof=true&sd=true>`_. An example README file for the above exercise can be viewed `here <https://www.bv-brc.org/workspace/jsheriff@bvbrc/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/BIOS%20450%20-%20Advanced%20Microbiology%20-%20Univ.%20of%20Illinois%20at%20Chicago/Comparing%20AMR%20genes%20between%20domestic%20and%20wild%20animal%20populations/README.pdf>`_.
 
 
+Additionally, the contents of the README file can be copied and pasted with the prompt provided below:
+
 
 "
 
