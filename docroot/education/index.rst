@@ -10,7 +10,7 @@ Along with servicing the biomedical research community, the BV-BRC is commited t
 * **Accessiblity**. The BV-BRC provides users with free bioinformatic resources, open to all students and instructors registered to our website. 
 * **Reproducibility**. The sharing of educational material through public workspaces allows for open access to workflows, exercise documents, and sample data, providing consistent results for both instructors and students. 
 * **A GUI Platform**. The BV-BRC provides users with a mutlitude of high-performance bioinformatic tools, along with millions of curated bacterial and viral genomes, through a easy-to-use, graphical user interface. This also provides our educational community with a means of integrating bioinformatics into their course curricula without requiring the prerequisites necessary for using traditional bioinformatic tools, such as  experience utilizing a command line interface. 
-* **Support**. The BV-BRC team is readily available to provide support to eductors through our long-standing ticket submission system and our BV-BRC Community Slack Channel. 
+* **Support**. The BV-BRC team is readily available to provide support to educators through our long-standing ticket submission system and our BV-BRC Community Slack Channel. 
 
 
 Create and Publish an Education Workspace
@@ -48,7 +48,7 @@ Additionally, the contents of the README file can be copied and pasted with the 
 
 "
 
-The educator workspace ReadME file is designed to provide a general overview of the exercise, facilitating the sharing and use of BV-BRC exercises among the educator community. To publish an educator workspace, a ReadMe file is **required for each exercise within a workspace**, with the following information included:
+The educator workspace README file is designed to provide a general overview of the exercise, facilitating the sharing and use of BV-BRC exercises among the educator community. To publish an educator workspace, a README file is **required for each exercise within a workspace**, with the following information included:
 
 **Corresponding Educator(s)**: the name, email, and institution of at least one educator to contact regarding the exercise.
 
