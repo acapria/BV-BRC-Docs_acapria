@@ -143,7 +143,7 @@ For **help with using BV-BRC services and tools**, please visit the BV-BRC Docum
 
 For **help with your education workspace**, workspace publishing, or with questions about using the BV-BRC in your classroom, please contact the BV-BRC outream team by direct email (help@bv_brc.org) or by sending a message with the *Contact Us* button under the *About* dropdown menu. To ensure the outreach team quickly recieves your requests, please include an "Education -" tag at the beginning of your email title. 
 
-.. image:: ./images/ContactUs.png
+.. image:: ./images/ContactUS.png
 
 **Join the BV-BRC Community Slack Workspace** `(bv-brc-community.slack.com) <https://join.slack.com/t/bv-brc-community/shared_invite/zt-3qhnzncqv-vU94_qdpZLqiHaSGnmDwLg>`_ to ask questions directly to the BV- BRC team and discuss with other members of the education community through our #education Slack channel. 
 
