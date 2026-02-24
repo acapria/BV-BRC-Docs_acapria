@@ -118,6 +118,8 @@ Once you have published your education workspace, you should contact the BV-BRC 
       Jamal Sheriff, jsheri6@uic.edu
 
       Rachel Poretsky, microbe@uic.edu
+SHOW HOW TO SEND THROUGH TICKET SYSTEM 
+help@bv_brc.org
 
    **b. Through the BV-BRC Community Slack Workspace**. 
    You can also reach us posting your request directly to our #education channel. Find information on how to join the BV-BRC Community Slack below (see **Getting Help** below). 
@@ -146,6 +148,7 @@ Getting Help
 For **help with using BV-BRC services and tools**, please visit the BV-BRC Documentation `Website <https://www.bv-brc.org/docs/>`_ to review our quick reference guides and tutorials. Walkthrough and workshop videos can be viewed on the BV-BRC Youtube `Channel <https://www.youtube.com/@BVBRC>`_. Questions regarding job submission failures should be submitted through our ticketing system with the `Report Issue <https://www.bv-brc.org/docs/quick_references/workspaces/jobs.html>`_ action button. 
 
 For **help with your education workspace**, or with questions about using the BV-BRC in your classroom, please contact one of the BV-BRC outream team members listed above. 
+
 
 **Join the BV-BRC Community Slack Workspace** `(bv-brc-community.slack.com) <https://join.slack.com/t/bv-brc-community/shared_invite/zt-3qhnzncqv-vU94_qdpZLqiHaSGnmDwLg>`_ to ask questions directly to the BV- BRC team and discuss with other members of the education community through our #education Slack channel. 
 
