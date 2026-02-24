@@ -23,6 +23,7 @@ BV-BRC Documentation
    videos/index
    webinar/index
    workshops/index
+   education/index
 
 .. faqs_common_tasks/index
 
