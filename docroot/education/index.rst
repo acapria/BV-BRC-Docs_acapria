@@ -112,17 +112,11 @@ Currently, publishing an education workspace is done in the same manner as publi
 
 Once you have published your education workspace, you should contact the BV-BRC in order to have your workspace added to our list of public education workspaces (see **Accessing Education Workspaces** below). You can contact us via two ways:
 
-   **a. Directly email a BV-BRC outreach team member**.
-   Contact a member of our outreach team to let us know to add your workspace our public list. Be sure to include the title of your workspace within your email, and ensure that the workspace contains the required material as outlined above. With your request, you may reach out to:
-
-      Jamal Sheriff, jsheri6@uic.edu
-
-      Rachel Poretsky, microbe@uic.edu
-SHOW HOW TO SEND THROUGH TICKET SYSTEM 
-help@bv_brc.org
+   **a. Email the BV-BRC outreach team**.
+   Contact the outreach team to let us know to add your workspace our public list. Be sure to include the title of your workspace within your email, and ensure that the workspace contains the required material as outlined above. More info on emailing the BV-BRC outreach team can be found below (see **Getting Help**). 
 
    **b. Through the BV-BRC Community Slack Workspace**. 
-   You can also reach us posting your request directly to our #education channel. Find information on how to join the BV-BRC Community Slack below (see **Getting Help** below). 
+   You can also reach us posting your request directly to our #education channel. Find information on how to join the BV-BRC Community Slack below (see **Getting Help**). 
 
 
 Accessing Education Workspaces
@@ -147,8 +141,9 @@ Getting Help
 
 For **help with using BV-BRC services and tools**, please visit the BV-BRC Documentation `Website <https://www.bv-brc.org/docs/>`_ to review our quick reference guides and tutorials. Walkthrough and workshop videos can be viewed on the BV-BRC Youtube `Channel <https://www.youtube.com/@BVBRC>`_. Questions regarding job submission failures should be submitted through our ticketing system with the `Report Issue <https://www.bv-brc.org/docs/quick_references/workspaces/jobs.html>`_ action button. 
 
-For **help with your education workspace**, or with questions about using the BV-BRC in your classroom, please contact one of the BV-BRC outream team members listed above. 
+For **help with your education workspace**, workspace publishing, or with questions about using the BV-BRC in your classroom, please contact the BV-BRC outream team by direct email (help@bv_brc.org) or by sending a message with the *Contact Us* button under the *About* dropdown menu. To ensure the outreach team quickly recieves your requests, please include an "Education -" tag at the beginning of your email title. 
 
+.. image:: ./images/ContactUs.png
 
 **Join the BV-BRC Community Slack Workspace** `(bv-brc-community.slack.com) <https://join.slack.com/t/bv-brc-community/shared_invite/zt-3qhnzncqv-vU94_qdpZLqiHaSGnmDwLg>`_ to ask questions directly to the BV- BRC team and discuss with other members of the education community through our #education Slack channel. 
 
