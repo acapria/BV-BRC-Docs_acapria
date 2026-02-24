@@ -1,11 +1,12 @@
+Education
+========
 
 .. image:: ./images/BVBRC_for_Educators_Logo.png
    :alt: BV-BRC For Educators
    :scale: 60%
-========
 
 Introduction
----------------------------
+------------
 Along with servicing the biomedical research community, the BV-BRC is commited to servicing the needs of our ever-growing community of educators. *BV-BRC for Educators* was organized to create a central network for publishing educational workspaces, exercises, and workflows created by educators. This platform will be used to support our educational community through:
 
 * **Accessiblity**. The BV-BRC provides users with free bioinformatic resources, open to all students and instructors registered to our website. 
@@ -15,7 +16,7 @@ Along with servicing the biomedical research community, the BV-BRC is commited t
 
 
 Create and Publish an Education Workspace
-----------------------------------------------------------
+------------------------------------------
 
 **1) Creating a Workspace**
 
