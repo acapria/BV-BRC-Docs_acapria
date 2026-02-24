@@ -114,7 +114,7 @@ Currently, publishing an education workspace is done in the same manner as publi
 Once you have published your education workspace, you should contact the BV-BRC in order to have your workspace added to our list of public education workspaces (see **Accessing Education Workspaces** below). You can contact us via two ways:
 
    **a. Email the BV-BRC outreach team**.
-   Contact the outreach team to let us know to add your workspace our public list. Be sure to include the title of your workspace within your email, and ensure that the workspace contains the required material as outlined above. More info on emailing the BV-BRC outreach team can be found below (see **Getting Help**). 
+   Contact the outreach team to let us know to add your workspace to our public list. Be sure to include the title of your workspace within your email, and ensure that the workspace contains the required material as outlined above. More info on emailing the BV-BRC outreach team can be found below (see **Getting Help**). 
 
    **b. Through the BV-BRC Community Slack Workspace**. 
    You can also reach us posting your request directly to our #education channel. Find information on how to join the BV-BRC Community Slack below (see **Getting Help**). 
