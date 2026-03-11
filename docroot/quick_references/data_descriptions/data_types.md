@@ -29,7 +29,7 @@
 * **spike_lineage** - Month-by-month statistics for SARS-CoV-2 Pango lineages (growth, prevalence, VOC status) and their defining spike mutations.
 * **spike_variant** - Monthly global statistics for notable SARS-CoV-2 spike-protein variants (D614G, etc.) including prevalence, growth rate and lineage diversity.
 * **strain** - Per-strain metadata for segmented viruses (esp. influenza), linking segment accessions, host/geographic info and genome records.
-* **structured_assertion	Machine-readable statements about genomic features (e.g. “gene confers ciprofloxacin resistance”) with evidence codes and citations.
+* **structured_assertion** - Machine-readable statements about genomic features (e.g. “gene confers ciprofloxacin resistance”) with evidence codes and citations.
 * **subsystem** - Links individual genes in a genome to SEED subsystems and roles, enabling subsystem heat-maps and completeness metrics.
 * **subsystem_ref** - Reference hierarchy for SEED subsystems, including descriptions, literature and role lists.
 * **surveillance** - Rich epidemiological, clinical and environmental metadata linking genomes to patient or wildlife surveillance information.
