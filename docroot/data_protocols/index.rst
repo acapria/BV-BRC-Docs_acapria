@@ -1,5 +1,5 @@
-Data Sources and Protocols
-==========================
+Data Types, Sources, and Protocols
+==================================
 
 BV-BRC uses standardized protocols for collecting, processing, annotating, and integrating bacterial and viral data from multiple sources. The links below provide detailed descriptions for each major data type.
 
