@@ -49,6 +49,136 @@ Below are the data types supported by BV-BRC. Each has a "source" designation of
 
 **Quick Reference Guide:** []()
 
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
+## 
+**Description:** 
+
+**Source:** 
+
+**Related and Derived Data Types:** 
+
+**Origin Data Source(s):** 
+
+**Processing Protocol(s):**
+
+**Quick Reference Guide:** []()
+
 
 
 
