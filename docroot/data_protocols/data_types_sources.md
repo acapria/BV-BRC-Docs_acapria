@@ -34,7 +34,7 @@ Below are the data types supported by BV-BRC. Each has a "source" designation of
 
 **Processing Protocol(s):**
 
-**Quick Reference Guide:** [Genome Table](https://www.bv-brc.org/docs/quick_references/organisms_taxon/genome_table.html)
+**Quick Reference Guide:** [Genomes](https://www.bv-brc.org/docs/quick_references/organisms_taxon/genomes.html)
 
 
 
