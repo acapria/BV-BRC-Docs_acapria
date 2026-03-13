@@ -21,7 +21,7 @@ Below are the data types supported by BV-BRC. Each has a "source" designation of
 
 **Processing Protocol(s):**
 
-**Quick Reference Guide:** 
+**Quick Reference Guide:** [Taxonomic Overview](https://www.bv-brc.org/docs/quick_references/organisms_taxon/overview.html)
 
 ## Genomes
 **Description:** The central data type in BV-BRC is genomes. Most of the data and information within BV-BRC is linked back to sequenced, assembled, and annotated genomes stored in the BV-BRC database. Genomes are incorporated from RefSeq, GenBank, and other sources, and are annotated using a standard annotation protocol, RASTtk, to enable comparative analyses and linking of data across the website. In addition, the BV-BRC team searches literature for large published AMR studies and assembles corresponding genomes using the reads available in the SRA database.
