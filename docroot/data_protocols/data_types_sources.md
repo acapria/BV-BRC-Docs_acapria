@@ -24,7 +24,7 @@ Below are the data types supported by BV-BRC. Each has a "source" designation of
 
 **Related and Derived Data Types:** Clinical and environmental metadata, AMR / AVR phenotypes, QC results
 
-Origin Source(s):** GenBank, SRA, User-published
+**Origin Source(s):** GenBank, SRA, User-published
 
 **Description:** The central data type in BV-BRC is genomes. Most of the data and information within BV-BRC is linked back to sequenced, assembled, and annotated genomes stored in the BV-BRC database. Genomes are incorporated from RefSeq, GenBank, and other sources, and are annotated using a standard annotation protocol, RASTtk, to enable comparative analyses and linking of data across the website. In addition, the BV-BRC team searches literature for large published AMR studies and assembles corresponding genomes using the reads available in the SRA database.
 
