@@ -13,12 +13,16 @@ Below are the data types supported by BV-BRC. Each has a "source" designation of
 ## Taxonomy
 Source: Primary
 
-Origin Source(s): NCBI Taxonomy, ICTV
+Related and Derived Data Types: Reference organisms
+
+Origin Data Source(s): NCBI Taxonomy, ICTV
 
 Description: 
 
 ## Genomes
 Source: Primary
+
+Related and Derived Data Types: Clinical and environmental metadata, AMR / AVR phenotypes, QC results
 
 Origin Source(s): GenBank, SRA, User-published
 
