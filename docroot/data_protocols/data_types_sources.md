@@ -1,4 +1,6 @@
-# BV-BRC Data Types
+# BV-BRC Data Types and Sources
+
+
 
 * **antibiotics** -	Chemical, pharmacological and mechanistic details for antibacterial agents used in AMR analytics and clinical-isolate annotation.
 * **bioset** - Represents a contrast or set of statistically significant entities (genes, proteins, metabolites, etc.) derived from an experiment — typically a differential-expression list or time-point cluster.
