@@ -17,7 +17,13 @@ Return Specialty Genes of the Specified Type in One or More Genomes
      p3-get-genome-sp-genes.pl [options] property
 
 
-This script returns specialty gene data for the genes in one of more genomes.  The script recognizes the following types
+This script returns specialty gene data for the genes in one of more genomes. 
+
+If you are searching based on genome_id then genome_id should be passed as standard input to CLI command as in example below
+
+p3-all-genomes --eq genome_id,83332.12 --attr genome_id | p3-get-genome-sp-genes amr --attr patric_id,antibiotics,antibiotics_class,classification,gene,genome_id,feature_id,patric_id
+
+The script recognizes the following types
 of specialty genes.
 
 
