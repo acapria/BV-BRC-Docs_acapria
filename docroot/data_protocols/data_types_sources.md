@@ -28,7 +28,9 @@ Origin Source(s): GenBank, SRA, User-published
 
 Description: The central data type in BV-BRC is genomes. Most of the data and information within BV-BRC is linked back to sequenced, assembled, and annotated genomes stored in the BV-BRC database. Genomes are incorporated from RefSeq, GenBank, and other sources, and are annotated using a standard annotation protocol, RASTtk, to enable comparative analyses and linking of data across the website. In addition, PATRIC searches literature for large published AMR studies and assembles corresponding genomes using the reads available in the SRA database. As of July 2024, PATRIC contains 1,041,313 bacterial, 24,998 archaeal, 11,783,665 viral, and 11 eukaryotic host genomes.
 
-Quick Reference Guide: https://www.bv-brc.org/docs/quick_references/organisms_taxon/genome_table.html
+Quick Reference Guide: [Genome Table](https://www.bv-brc.org/docs/quick_references/organisms_taxon/genome_table.html)
+
+
 
 
 
