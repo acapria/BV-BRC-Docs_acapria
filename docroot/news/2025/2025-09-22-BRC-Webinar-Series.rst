@@ -24,34 +24,35 @@ Agenda
 
 Rotating Schedule Across BRCs:
 
-* **May 8th**
+* **May 8th 2026**
 PDN: Viralzone Presentation 
 
-* **April 10th**
+* **April 10th 2026**
 Differential Gene Expression with BRC Analytics
 
-* **March 13th**
- NCBI: Genbank and SRA Data Submission - Special hour long session
+* **March 13th 2026**
+ NCBI: Genbank and SRA Data Submission  - Special hour long session
 
-* **February 13th**
+* **February 13th 2026**
 
  BV-BRC: Influenza Reassortment Analysis Service running USDA Flu Crew's TreeSort tool `Recording <https://youtu.be/IkyG90thRik?si=ifwaCa6rW0bR6vbN>`_
 
-* **January 9th**
+* **January 9th 2026**
 
   PDN Updates: Loculus Overview `Recording <https://youtu.be/3HOaftK_NeY?si=HyR_HOUlPCSIll47>`_
 
-* **December 12th**
+* **December 12th 2025**
 
   BRC Analytics Updates: Fungal Genomics `Recordinng <https://youtu.be/yspQZCHpJ5A?si=tXDq-9BaCi8QIkYN>`_
 
-* **November 14th**
+* **November 14th 2025**
 
   BV-BRC Updates and new outbreak services: Core Genome MLST and Whole Genome SNP Analysis `Recording <https://youtu.be/Rg5CnPV-pDU?si=g-u6Y7TulRRzQQk6>`_
 
-* **October 10th**
+* **October 10th 2025**
   
- Introduction to all 3 of our BRCs `Recording <https://youtu.be/l_nEfZkf234?si=T_BRkNxXLLeNkh3I>`_
+ Introduction to all 3 of our BRCs BV-BRC 
+`Recording <https://youtu.be/l_nEfZkf234?si=T_BRkNxXLLeNkh3I>`_
 
 
 
