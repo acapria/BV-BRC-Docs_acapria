@@ -7,7 +7,7 @@ FTP Site
 BV-BRC FTP Site: Transition from Unencrypted FTP to Encrypted FTP (FTPS)
 ========================================================================
 
-The BV-BRC FTP site has long been a primary mechanism for distributing large-scale genomic and related datasets. To strengthen security and align with modern best practices, BV-BRC has transitioned from unencrypted FTP (ftp://ftp.bv-brc.org) to encrypted FTP ((ftps://ftp.bv-brc.org)). This change ensures that data transfers between BV-BRC and its users are protected from interception or tampering.
+The BV-BRC FTP site has long been a primary mechanism for distributing large-scale genomic and related datasets. To strengthen security and align with modern best practices, BV-BRC has transitioned from unencrypted FTP (ftp://ftp.bv-brc.org) to encrypted FTPS (ftps://ftp.bv-brc.org). This change ensures that data transfers between BV-BRC and its users are protected from interception or tampering.
 
 **Why the Change Was Necessary**
 
