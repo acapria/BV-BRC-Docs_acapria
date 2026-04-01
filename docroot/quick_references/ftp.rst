@@ -84,7 +84,7 @@ Each genome directory provides the following data files for PATRIC and RefSeq an
 
 viruses/
 --------
-This directory contains data for all public viral genomes in standard file formats. 
+This directory contains data for **all public viral genomes** in standard file formats. 
 The data is organized by families. For each family, the following data files are available, all using family name as prefix.
 
 - .fna: FASTA contig sequences
