@@ -3,11 +3,13 @@
 *Revised: April 6, 2026*
 
 ## Overview
-The Mobile Element Detection service allows you to identify viruses and plasmids in nucleic acid datasets. The use cases for this pipeline are broad – from detecting novel viruses in complex wastewater samples, to identifying plasmids in isolate genomes. The core of the Mobile Element Detection service is [geNomad](https://portal.nersc.gov/genomad/index.html) which detects viruses and plasmids in assembled contigs. This pipeline can accept short reads or assembled contigs. If raw reads are provided, assembly can be carried out using any of the assembly methods in the [Genome Assembly Service](https://www.bv-brc.org/docs/tutorial/genome_assembly/assembly.html). The output of this pipeline is an assembled contigs file (if short reads are provided) and a tailored geNomad output which links identified viral and plasmid resources to BV-BRC databases.
+The Mobile Element Detection service allows you to identify viruses and plasmids in nucleic acid datasets. The use cases for this pipeline are broad – from detecting novel viruses in complex wastewater samples, to identifying plasmids in isolate genomes. The core of the Mobile Element Detection service is [geNomad](https://portal.nersc.gov/genomad/index.html) which detects viruses and plasmids in assembled contigs. This pipeline can accept short reads or assembled contigs. If raw reads are provided, assembly can be carried out using any of the assembly methods in the [Genome Assembly Service](https://www.bv-brc.org/docs/tutorial/genome_assembly/assembly.html). The output of this pipeline is an assembled contigs file (if short reads are provided) and a tailored geNomad output which links identified viral and plasmid resources to BV-BRC databases. 
 
+A detailed description of the geNomad workflow is provided in the 
 
 ## See also
 * [Mobile Element Detection Service](https://www.bv-brc.org/app/MobileElementDetection)
+* [Mobile Element Detection Service Tutorial](https://www.bv-brc.org/app/MobileElementDetection)
 
 ## Using the Mobile Element Detection Service
 The **Mobile Element Detection** submenu option under the **Services** main menu (Metagenomics category) opens the service input form (*shown below*). *Note: You must be logged into BV-BRC to use this tool.*
@@ -17,14 +19,11 @@ The **Mobile Element Detection** submenu option under the **Services** main menu
 ## Options
 ![Mobile Element Detection Service Input Form](./images/mobile_element_input_form.png) 
 
+## Input Configuration 
+The service can accept either contigs (FASTA) or reads as input. Select the file from the dropdown menu or navigate to find the file in your workspace using the folder icon.
 
-
-
-## From 
-Dropdown list for electing which ID type (BV-BRC, RefSeq, Uniprot-KB, etc.) to map from (source).
-
-## To 
-Dropdown list for selecting which ID type (BV-BRC, RefSeq, Uniprot-KB, etc.) to map to (target). 
+## Output 
+Select an output folder for the results of the service and provide a name for the job output results. 
 
 ## IDs
 Input box for specifying the IDs to map.  The IDs can be specified in a comma-separated or one-per-line list.
