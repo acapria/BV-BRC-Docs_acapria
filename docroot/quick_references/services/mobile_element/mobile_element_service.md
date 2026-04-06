@@ -23,7 +23,10 @@ The service can accept either contigs (FASTA) or reads as input. If 'contigs' is
 
 ![Mobile Element Detection Service Input Form](./images/mobile_element_input_form.png) 
 
-If 'reads' is selected, the input form expands to appear as shown below, which adds the options for Genome Assembly (see [Genome Assembly Service Tutorial](../../../tutorial/mobile_element.html)
+If 'reads' is selected, the input form expands to appear as shown below, which adds the options for Genome Assembly (see [Genome Assembly Service Tutorial](https://www.bv-brc.org/docs/tutorial/genome_assembly/assembly.html) for details on configuring the assembly.
+
+![Mobile Element Detection Service Input Form - Reads option](./images/mobile_element_input_form_reads.png) 
+
  
 
 ## Output 
