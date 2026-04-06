@@ -12,7 +12,7 @@ The Mobile Element Detection service allows you to identify viruses and plasmids
 ## Using the Mobile Element Detection Service
 The **Mobile Element Detection** submenu option under the **Services** main menu (Metagenomics category) opens the service input form (*shown below*). *Note: You must be logged into BV-BRC to use this tool.*
 
-![Services Menu](.../images/bv_services_menu.png)
+![Services Menu](./../images/bv_services_menu.png)
 
 ## Options
 ![Mobile Element Detection Service Input Form](../images/mobile_element_input_form.png) 
