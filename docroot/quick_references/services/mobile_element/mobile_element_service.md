@@ -10,6 +10,7 @@ A detailed description of the geNomad workflow is provided in the
 ## See also
 * [Mobile Element Detection Service](https://www.bv-brc.org/app/MobileElementDetection)
 * [Mobile Element Detection Service Tutorial](https://www.bv-brc.org/app/MobileElementDetection)
+* [Mobile Element Detection Service Tutorial](../../../tutorial/mobile_element/mobile_element.html)
 
 ## Using the Mobile Element Detection Service
 The **Mobile Element Detection** submenu option under the **Services** main menu (Metagenomics category) opens the service input form (*shown below*). *Note: You must be logged into BV-BRC to use this tool.*
