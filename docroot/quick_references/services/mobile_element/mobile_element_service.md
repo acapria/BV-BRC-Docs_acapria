@@ -27,8 +27,6 @@ If 'reads' is selected, the input form expands to appear as shown below, which a
 
 ![Mobile Element Detection Service Input Form - Reads option](./images/mobile_element_input_form_reads.png) 
 
- 
-
 ## Output 
 Select an output folder for the results of the service and provide a name for the job output results. 
 
@@ -37,7 +35,7 @@ Select an output folder for the results of the service and provide a name for th
 **Reset:** Launches the service , which, upon completion, displays a table below it 
 
 ## Output Results
-![ID Mapper Service Results](../images/id_mapper_service_results.png) 
+![Mobile Element Detection Service Results](./images/mobile_element_job_results.png) 
 
 The ID Mapper Service generates a table containing all the matching items (e.g., features, genomes, etc.) that map to the list of IDs provided. The input IDs appear in the Source column and matching IDs in the Target column. Every feature may not have a matching ID in the target ID type.
 
