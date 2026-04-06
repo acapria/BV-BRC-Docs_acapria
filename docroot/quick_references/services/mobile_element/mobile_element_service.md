@@ -9,7 +9,6 @@ A detailed description of the geNomad workflow is provided in the
 
 ## See also
 * [Mobile Element Detection Service](https://www.bv-brc.org/app/MobileElementDetection)
-* [Mobile Element Detection Service Tutorial](https://www.bv-brc.org/app/MobileElementDetection)
 * [Mobile Element Detection Service Tutorial](../../../tutorial/mobile_element/mobile_element.html)
 
 ## Using the Mobile Element Detection Service
