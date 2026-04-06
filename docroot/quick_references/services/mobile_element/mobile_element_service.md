@@ -15,7 +15,7 @@ The **Mobile Element Detection** submenu option under the **Services** main menu
 ![Services Menu](../../images/bv_services_menu.png)
 
 ## Options
-![Mobile Element Detection Service Input Form](../images/mobile_element_input_form.png) 
+![Mobile Element Detection Service Input Form](./images/mobile_element_input_form.png) 
 
 
 
