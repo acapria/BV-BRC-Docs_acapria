@@ -37,7 +37,11 @@ Select an output folder for the results of the service and provide a name for th
 ## Output Results
 ![Mobile Element Detection Service Results](./images/mobile_element_job_results.png) 
 
-The ID Mapper Service generates a table containing all the matching items (e.g., features, genomes, etc.) that map to the list of IDs provided. The input IDs appear in the Source column and matching IDs in the Target column. Every feature may not have a matching ID in the target ID type.
+The service several files and folders:
+
+**Analysis_Summary.html:** - Report summarizing the results of the service job. It has 2 overall sections, – displaying first contigs identified as viral, and then contigs identified as plasmids.
+
+GOT TO HERE
 
 ### Action buttons
 After selecting one of the output features by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
