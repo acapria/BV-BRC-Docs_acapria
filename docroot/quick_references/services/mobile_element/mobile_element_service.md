@@ -23,7 +23,7 @@ The service can accept either contigs (FASTA) or reads as input. If 'contigs' is
 
 ![Mobile Element Detection Service Input Form](./images/mobile_element_input_form.png) 
 
-If 'reads' is selected, the input form expands to appear as shown below, which adds the options for Genome Assembly (see [Genome Assembly Service Tutorial](https://www.bv-brc.org/docs/tutorial/genome_assembly/assembly.html) for details on configuring the assembly.
+If 'reads' is selected, the input form expands to appear as shown below, which adds the options for Genome Assembly (see [Genome Assembly Service Tutorial](https://www.bv-brc.org/docs/tutorial/genome_assembly/assembly.html)) for details on configuring the assembly.
 
 ![Mobile Element Detection Service Input Form - Reads option](./images/mobile_element_input_form_reads.png) 
 
@@ -40,6 +40,14 @@ Select an output folder for the results of the service and provide a name for th
 The service several files and folders:
 
 **Analysis_Summary.html:** - Report summarizing the results of the service job. It has 2 overall sections, – displaying first contigs identified as viral, and then contigs identified as plasmids.
+
+![Viral contigs](./images/viral_contigs.png) 
+
+![Plasmid contigs](./images/plasmid_contigs.png) 
+
+
+
+
 
 GOT TO HERE
 
