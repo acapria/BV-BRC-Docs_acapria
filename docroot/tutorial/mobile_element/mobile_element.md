@@ -1,7 +1,14 @@
+# Mobile Element Detection Service
+
+*Revised: April 9, 2026*
+
+DNA sequence alignment is a prerequisite to many comparative genomic analyses.
+For longer genomic DNA, it helps to identify medium and large-scale rearrangements, as well as insertions and deletions. The BV-BRC Genome Alignment service uses progressiveMauve[1] which constructs positional homology multiple genome alignments to align regions conserved in subsets of the genomes.  The service uses genomes that are annotated within the BV-BRC resource (they can be private or public genomes), and up to 20 genomes can be compared.
+
+
 The Mobile Element Detection service allows you to identify viruses and plasmids in nucleic acid datasets. The use cases for this pipeline are broad – from detecting novel viruses in complex wastewater samples, to identifying plasmids in isolate genomes. The core of the Mobile Element Detection service is geNomad (https://portal.nersc.gov/genomad/index.html) which detects viruses and plasmids in assembled contigs. This pipeline can accept short reads or assembled contigs. If raw reads are provided, assembly can be carried out using any of the assembly methods in the Genome Assembly Service (https://www.bv-brc.org/docs/tutorial/genome_assembly/assembly.html). The output of this pipeline is an assembled contigs file (if short reads are provided) and a tailored geNomad output which links identified viral and plasmid resources to BV-BRC databases.
 
-
-The geNomad workflow
+## The geNomad workflow
 
 The Mobile Element Detection Service currently uses geNomad version 1.11.1, and whichever assembly method is selected from the Genome Assembly Service. Much of this tutorial is based on the geNomad tutorial from NERSC (https://portal.nersc.gov/genomad/pipeline.html). This pipeline runs the geNomad end-to-end command, which runs a series of distinct commands within geNomad – annotate, find-provirus, both nn-classification and marker-classification, aggregated-classification and then summary.
 
@@ -39,9 +46,20 @@ Each viral, proviral, and plasmid contig is annotated using the BVBRC annotation
 
 
 
-Using the Mobile Element Detection Service
+## Using the Mobile Element Detection Service
+The Mobile Element Detection Service can be found under the Services main menu, below the Metagenomics subheading. *You must be logged in to the BV-BRC to use this service*.
 
-The Mobile Element Detection Service can be found under the Services main menu, below the Metagenomics subheading. You must be logged in to the BV-BRC/or dxkb to use this service.
+
+1.	Cl
+
+
+
+
+
+
+
+
+
 
 
 
