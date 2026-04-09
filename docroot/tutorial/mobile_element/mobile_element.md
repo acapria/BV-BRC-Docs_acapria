@@ -47,27 +47,34 @@ Select an output folder location and name for eventual output folder
 ## Finding the Mobile Genetic Element Detection Results
 
 1.	The job can be located from three places on any BV-BRC/dxkb page. Clicking on the Workspace tab will reveal two of the places where the workspace or jobs folder can be located, and also from the Jobs monitor located at the lower right of any BV-BRC page.
+
 ![Figure 5](./images/picture5.png "Figure 5")
 
 2.	The landing page shows all the files produced by the job that was submitted. The top portion gives details such as the run time and input parameters
+
 ![Figure 6](./images/picture6.png "Figure 6")
 
 3.	Each job will return a report summarizing the results. Click on that Analysis_Summary.html file to view this report.
+
 ![Figure 7](./images/picture7.png "Figure 7")
 
 4.	The report has two overall sections – displaying first contigs identified as viral, and then contigs identified as plasmids.
+
 ![Figure 8](./images/picture8.png "Figure 8")
 
 5.	Contigs identified as viral are displayed here, along with a number of details and links to annotations performed by other BV-BRC tools on those contigs. Details taken from geNomad – such as contigs length, GC%, status (virus, provirus) as well as geNomad assignment probability score and taxonomy, are displayed here. Also displayed are additional details of analysis carried out by BV-BRC. Phannotate annotations are carried out on identified viral sequences, and this links these identified viral contigs to BV-BRC databases – which can be accessed through the Genome ID column for each viral contig.
+
 ![Figure 9](./images/picture9.png "Figure 9")
 
 6.	Contigs identified as plasmids are displayed here, along with a number of details and links to annotations performed by other BV-BRC tools on those contigs Details are taken from geNomad such as contig length, GC%, topology and geNomad assignment probability score. Also displayed are additional details of analysis carried out by BV-BRC. RAST annotations are carried out on identified plasmid sequences, and this links these identified plasmid contigs to BV-BRC databases – which can be accessed through the Genome ID column for each plasmid contig.
-![Figure 10](./images/picture10.png "Figure 10")
 
+![Figure 10](./images/picture10.png "Figure 10")
 
 7.	In addition to this summary which then provides links to BV-BRC analyzed genome IDs, other outputs are provided linking to raw data.
 a.	Virus summary .tsv and Plasmid summary.tsv are provided, which is a sample wide summary of all viral and plasmid contigs identified, respectively.
+
 ![Figure 11](./images/picture11.png "Figure 11")
 
 b.	Plasmid_Annotation and Viral_Annotation folders are provided, in which a single folder for each contig identified as either plasmid or virus can be found. Inside that folder for every single contig of either group, a single .fasta file containing only that contig can be found. This allows direct download or manipulation for further analysis.
+
 ![Figure 12](./images/picture12.png "Figure 12")
