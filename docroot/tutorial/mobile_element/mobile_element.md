@@ -8,9 +8,18 @@ The Mobile Element Detection Service allows users to identify viruses and plasmi
 
 The Mobile Element Detection Service currently uses geNomad version 1.11.1, and whichever assembly method is selected from the Genome Assembly Service. Much of this tutorial is based on the geNomad tutorial from [NERSC](https://portal.nersc.gov/genomad/pipeline.html). This pipeline runs the geNomad end-to-end command, which runs a series of distinct commands within geNomad – annotate, find-provirus, both nn-classification and marker-classification, aggregated-classification and then summary.
 
-!
-
-
+![Figure 1](./images/picture1.png "Figure 1")
+![Figure 2](./images/picture2.png "Figure 2")
+![Figure 3](./images/picture3.png "Figure 3")
+![Figure 4](./images/picture4.png "Figure 4")
+![Figure 5](./images/picture5.png "Figure 5")
+![Figure 6](./images/picture6.png "Figure 6")
+![Figure 7](./images/picture7.png "Figure 7")
+![Figure 8](./images/picture8.png "Figure 8")
+![Figure 9](./images/picture9.png "Figure 9")
+![Figure 10](./images/picture10.png "Figure 10")
+![Figure 11](./images/picture11.png "Figure 11")
+![Figure 12](./images/picture12.png "Figure 12")
 
 
 
