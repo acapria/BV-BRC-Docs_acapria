@@ -37,9 +37,9 @@ Select an output folder for the results of the service and provide a name for th
 ## Output Results
 ![Mobile Element Detection Service Results](./images/mobile_element_job_results.png) 
 
-The service several files and folders:
+The service produces several files and folders:
 
-**Analysis_Summary.html:** - Report summarizing the results of the service job. It has 2 overall sections, – displaying first contigs identified as viral, and then contigs identified as plasmids.
+* **Analysis_Summary.html:** - Report summarizing the results of the service job. It has 2 overall sections, – displaying first contigs identified as viral, and then contigs identified as plasmids, describe below;
 
 ![Viral contigs](./images/viral_contigs.png)
 Contigs identified as viral are displayed as shown above, along with a number of details and links to annotations performed by other BV-BRC tools on those contigs. Details taken from geNomad – such as contigs length, GC%, status (virus, provirus) as well as geNomad assignment probability score and taxonomy, are displayed here. Also displayed are additional details of analysis carried out by BV-BRC. Phannotate annotations are carried out on identified viral sequences, and this links these identified viral contigs to BV-BRC databases – which can be accessed through the Genome ID column for each viral contig.
@@ -47,27 +47,7 @@ Contigs identified as viral are displayed as shown above, along with a number of
 ![Plasmid contigs](./images/plasmid_contigs.png) 
 Contigs identified as plasmids are displayed as shown above, along with a number of details and links to annotations performed by other BV-BRC tools on those contigs Details are taken from geNomad such as contig length, GC%, topology and geNomad assignment probability score. Also displayed are additional details of analysis carried out by BV-BRC. RAST annotations are carried out on identified plasmid sequences, and this links these identified plasmid contigs to BV-BRC databases – which can be accessed through the Genome ID column for each plasmid contig.
 
-
-
-
-
-GOT TO HERE
-
-### Action buttons
-After selecting one of the output features by clicking it, a set of options becomes available in the vertical green Action Bar on the right side of the table.  These include
-
-* **Hide/Show:** Toggles (hides) the right-hand side Details Pane.
-* **Download:**  Downloads the selected items (rows).
-* **Copy:** Copies the selected items to the clipboard.
-* **FASTA:** Provides the FASTA DNA or protein sequence for the selected feature(s).
-* **ID Map:** Provides the option to map the selected feature(s) to multiple other idenfiers, such as RefSeq and UniProt.
-* **MSA:** Launches the Multiple Sequence Alignment (MSA) tool and aligns the selected features by DNA or protein sequence in an interactive viewer.
-* **Pathway:** Loads the Pathway Summary Table containing a list of all the pathways in which the selected features are found.
-* **Group:** Opens a pop-up window to enable adding the selected sequences to an existing or new group in the private workspace.
-* **Feature:** Loads the Feature Page for the selected feature. *Available only if a single feature is selected.*
-* **Features:** Loads the Features Table for the selected features. *Available only if multiple features are selected.*
-* **Genome:** Loads the Genome View Overview page corresponding to the selected feature.  *Available only if a single feature is selected.*
-* **Genomes:** Loads the Genomes Table, listing the genomes that correspond to the selected features. *Available only if multiple features are selected.*
-
-More details are available in the [Action Bar](/quick_references/action_bar) Quick Reference Guide.
-
+* **[report name]-contigs_virus_summary.tsv:** - Tab-separated-value (TSV) file which cointains a sample-wide summary of all viral contigs identified.
+* **[report name]-contigs_plasmid_summary.tsv:** - Tab-separated-value (TSV) file which cointains a sample-wide summary of all plasmid contigs identified.
+* **Viral Annotation (folder)** - For each virus contig, provides a folder containing a single .fasta file, allowing direct download or manipulation for further analysis.
+* **Plasmid Annotation (folder)** - For each plasmid contig, provides a folder containing a single .fasta file, allowing direct download or manipulation for further analysis.
