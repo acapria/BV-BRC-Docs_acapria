@@ -10,29 +10,26 @@ The Mobile Element Detection Service currently uses geNomad version 1.11.1, and 
 
 ![Figure 1](./images/picture1.png "Figure 1")
 
-Annotate – this step identifies genes in contigs using pyrodigal-gv, and annotates these genes using MMseqs2 against a dataset of 227,897 markers which include PFAM, COG, AMRFinder genes, BUSCO core genes and others. This provides both taxonomic assignments for contigs, and annotations for genes.
+**Annotate** – this step identifies genes in contigs using pyrodigal-gv, and annotates these genes using MMseqs2 against a dataset of 227,897 markers which include PFAM, COG, AMRFinder genes, BUSCO core genes and others. This provides both taxonomic assignments for contigs, and annotations for genes.
 
-Find-proviruses – this step takes annotations from the previous step along with input contigs, to identify regions in host genomes with integrated viruses. tRNAs and integrases are predicted on input contigs using ARAGORN and MMseqs2 respectively. Gene annotations from Annotate stage are used in a conditional random field model to identify regions of contigs enriched in viral specific markers. These regions, along with the tRNA predictions and integrase identification, are used for boundary refinement. The output from this is provirus coordinates within larger contigs, annotations for provirus genes, and taxonomy for proviruses.
+**Find-proviruses** – this step takes annotations from the previous step along with input contigs, to identify regions in host genomes with integrated viruses. tRNAs and integrases are predicted on input contigs using ARAGORN and MMseqs2 respectively. Gene annotations from Annotate stage are used in a conditional random field model to identify regions of contigs enriched in viral specific markers. These regions, along with the tRNA predictions and integrase identification, are used for boundary refinement. The output from this is provirus coordinates within larger contigs, annotations for provirus genes, and taxonomy for proviruses.
 
-Marker-classification – this step is the first of two that are run in parallel. This step takes information and features from gene and provirus gene annotations – such as the rate of strand switching, coding density, and many other features – and feeds these features into an XGBoost tree classification method. This tree classification method assigns for each contig a probability of being a chromosome, a plasmid or a virus. 
+**Marker-classification** – this step is the first of two that are run in parallel. This step takes information and features from gene and provirus gene annotations – such as the rate of strand switching, coding density, and many other features – and feeds these features into an XGBoost tree classification method. This tree classification method assigns for each contig a probability of being a chromosome, a plasmid or a virus. 
 
-nn-classification – this step is the second of the two that are run in parallel. This step takes the underlying nucleotide sequences and feeds them into an IGLOO neural network. This network then provides for each contig a probability of being a chromosome, a plasmid of a virus, as above.
+**nn-classification** – this step is the second of the two that are run in parallel. This step takes the underlying nucleotide sequences and feeds them into an IGLOO neural network. This network then provides for each contig a probability of being a chromosome, a plasmid of a virus, as above.
 
-Aggregated-classification – this step combines the probabilities generated in the previous two steps, to deduce an overall probability for the contig of whether it is a chromosome, plasmid or virus. This method weights the two individual scores in such a way that marker-classification is weighted more heavily when a high number of genes are well annotated and assigned to markers. In this way, the neural net scores are leveraged more for viruses or plasmids that are poorly described by annotation databases.
+**Aggregated-classification** – this step combines the probabilities generated in the previous two steps, to deduce an overall probability for the contig of whether it is a chromosome, plasmid or virus. This method weights the two individual scores in such a way that marker-classification is weighted more heavily when a high number of genes are well annotated and assigned to markers. In this way, the neural net scores are leveraged more for viruses or plasmids that are poorly described by annotation databases.
 
-Summary – this step summarizes gene annotations and identification of viruses and plasmids, and generates output files. This includes fasta files for identified viral sequences, identified plasmid sequences, and contigs with proviral sequences. Additionally, summary output files which are retained and highlighted in the Mobile Genetic Element Detection pipeline are created in this step, such as the virus_summary.tsv
+**Summary** – this step summarizes gene annotations and identification of viruses and plasmids, and generates output files. This includes fasta files for identified viral sequences, identified plasmid sequences, and contigs with proviral sequences. Additionally, summary output files which are retained and highlighted in the Mobile Genetic Element Detection pipeline are created in this step, such as the virus_summary.tsv
 
 ## Processed Output:
 Each viral, proviral, and plasmid contig is annotated using the BVBRC annotation service.  Appropriate viral taxa are annotated using the LowVan pipeline, with quality scoring.  We note that this does not perform viral binning, and that neither geNomad nor LowVan will aggregate multiple contigs or segments into a single unified genome.  Proviral genomes are annotated using Phannotate, the phage annotation pipeline, and plasmid contigs are annotated with RAST. 
 
-
-
 ## Using the Mobile Element Detection Service
-The Mobile Element Detection Service can be found under the Services main menu, below the Metagenomics subheading. *You must be logged in to the BV-BRC to use this service*.
+The **Mobile Element Detection Service** can be found under the **Services** main menu, below the **Metagenomics** subheading. *You must be logged in to the BV-BRC to use this service*.
 
 ![Figure 2](./images/picture2.png "Figure 2")
-![Figure 3](./images/picture3.png "Figure 3")
-![Figure 4](./images/picture4.png "Figure 4")
+
 ![Figure 5](./images/picture5.png "Figure 5")
 ![Figure 6](./images/picture6.png "Figure 6")
 ![Figure 7](./images/picture7.png "Figure 7")
@@ -42,53 +39,21 @@ The Mobile Element Detection Service can be found under the Services main menu, 
 ![Figure 11](./images/picture11.png "Figure 11")
 ![Figure 12](./images/picture12.png "Figure 12")
 
+## Service Menus
 
-
-
-1.	Cl
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Service Menus
-
-Service Menu - Contigs
-
- 
+### Service Menu - Contigs
+![Figure 3](./images/picture3.png "Figure 3")
 
 Select an output folder location and name for eventual output folder
 
+### Service Menus – Short Reads
+![Figure 4](./images/picture4.png "Figure 4")
 
-
-Service Menus – Short Reads
-
- 
-Select a read file and select assembly and quality control – see Genome Assembly tutorial for more information (https://www.bv-brc.org/docs/tutorial/genome_assembly/assembly.html)
+Select a read file and select assembly and quality control – see [Genome Assembly Tutorial](https://www.bv-brc.org/docs/tutorial/genome_assembly/assembly.html) for more information 
 
 Select an output folder location and name for eventual output folder
 
-Finding the Mobile Genetic Element Detection Results
+## Finding the Mobile Genetic Element Detection Results
 
 1.	The job can be located from three places on any BV-BRC/dxkb page. Clicking on the Workspace tab will reveal two of the places where the workspace or jobs folder can be located, and also from the Jobs monitor located at the lower right of any BV-BRC page.
 2.	The landing page shows all the files produced by the job that was submitted. The top portion gives details such as the run time and input parameters
