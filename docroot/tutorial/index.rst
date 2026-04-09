@@ -54,6 +54,7 @@ Metagenomics
    taxonomic_classification/taxonomic_classification.md
    metagenomic_binning/metagenomic_binning.md
    metagenomic_read_mapping/metagenomic_read_mapping.md
+   mobile_element/mobile_element.md
 
 
 Transcriptomics
