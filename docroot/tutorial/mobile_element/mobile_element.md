@@ -71,6 +71,7 @@ Select an output folder location and name for eventual output folder
 ![Figure 10](./images/picture10.png "Figure 10")
 
 7.	In addition to this summary which then provides links to BV-BRC analyzed genome IDs, other outputs are provided linking to raw data.
+
 a.	Virus summary .tsv and Plasmid summary.tsv are provided, which is a sample wide summary of all viral and plasmid contigs identified, respectively.
 
 ![Figure 11](./images/picture11.png "Figure 11")
