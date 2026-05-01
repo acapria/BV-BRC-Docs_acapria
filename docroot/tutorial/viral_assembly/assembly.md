@@ -41,6 +41,28 @@ Capture genomic variation, including low-frequency variants when needed
 
 Overall, IRMA modules enable reproducible, flexible viral genome assembly while simplifying analysis for users at all experience levels.
 
+IRMA module overview
+| **Option**             | **Covers**              | **Description**                                                           |
+| ---------------------- | ----------------------- | ------------------------------------------------------------------------- |
+| **FLU**                | Influenza A & B         | Standard influenza assembly workflow (default)                            |
+| **FLU AD**             | Influenza A, B, C, & D  | Broad influenza workflow supporting all types                             |
+| **FLU Alt**            | Influenza (alt config)  | Alternative parameters for difficult or atypical datasets                 |
+| **FLU Avian**          | Avian Influenza A       | Optimized for avian influenza strains                                     |
+| **FLU Avian Residual** | Avian residual reads    | Captures low-abundance or leftover avian influenza reads                  |
+| **FLU Fast**           | Influenza (fast mode)   | Faster runtime for high-quality datasets                                  |
+| **FLU Low QC**         | Influenza (low quality) | Designed for lower-quality or noisy sequencing data                       |
+| **FLU ONT**            | Oxford Nanopore data    | Optimized for ONT long-read sequencing                                    |
+| **FLU PacBio**         | PacBio data             | Optimized for PacBio long-read sequencing                                 |
+| **FLU PGM**            | Ion Torrent PGM         | Optimized for Ion Torrent sequencing data                                 |
+| **FLU Roche**          | Roche/454 data          | Legacy support for Roche/454 sequencing                                   |
+| **FLU Secondary**      | Post-assembly           | Secondary refinement after initial assembly                               |
+| **FLU Sensitive**      | Low-frequency variants  | Increased sensitivity for minor variant detection                         |
+| **FLU UTR**            | UTR recovery            | Improved recovery of 5′ and 3′ untranslated regions                       |
+| **CoV**                | SARS-CoV-2 & MERS-CoV   | Coronavirus assembly workflows                                            |
+| **RSV**                | RSV (A & B groups)      | Respiratory Syncytial Virus assembly                                      |
+| **Ebola**              | Filoviruses             | Zaire, Sudan, Bundibugyo, Reston, Taï Forest, Lloviu, and Marburg viruses |
+
+
 #### Reference Guided Viral Assembly
 
 Reference-Guided Assembly aligns sequencing reads to a known reference genome to reconstruct a consensus sequence. This approach is fast and effective for well-characterized viruses, enabling accurate genome recovery and variant detection when a suitable reference is available.
