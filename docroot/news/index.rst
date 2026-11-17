@@ -12,6 +12,7 @@ News and Announcements
    :description: BV-BRC News RSS feed
    :link: https://www.bv-brc.org/docs/
 
+   2026/2026-11-17-2026-release-notes.rst
    2026/2026-10-14-Release-notes.rst
    2026/2026-05-27-Ebola_Outbreak.rst
    2026/2026-05-15-Hantavirus-Outbreak.rst
@@ -35,6 +36,7 @@ News and Announcements
    :maxdepth: 1
    :caption: Release Notes:
 
+   2026/2026-11-17-2026-release-notes.rst
    2026/2026-10-14-Release-notes.rst
    2025/2025-08-12-august-2025-release.rst
 
