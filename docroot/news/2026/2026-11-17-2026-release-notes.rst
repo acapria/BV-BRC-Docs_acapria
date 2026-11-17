@@ -1,0 +1,73 @@
+# BV-BRC 3.60 — Release Notes
+
+**Release:** 3.60.21  
+**Supersedes:** 3.59.14  
+**Prepared:** November 16, 2026  
+**Scope:** 21 point releases (3.60.0–3.60.21); 48 feature and fix pull requests, February 28–November 13, 2026  
+**Status:** User-facing draft; deployment-dependent features noted below
+
+## Highlights
+BV-BRC 3.60 introduces a rebuilt **Influenza Search**, a consistent three-step **download wizard**, **saved searches**, **BV-BRC Copilot**, **Protein-Protein Interface Prediction**, an expanded **Synteny Graph**, and improvements to analysis services, job submission, and reliability.
+
+## Influenza Search and segmented-virus workflows
+The redesigned Influenza Search supports:
+
+- Multiple host, country, and subtype selections (up to five per field), with dependent host-group and continent choices.
+- Pasting multiple GenBank accessions using common separators.
+- Requiring genomes to contain all selected segments, separately from restricting the returned sequence records.
+- Sequence Complete/Partial filters independent of parent-genome completeness, with sequence-length and complete-genome filtering.
+- Corrected collection-date range matching.
+- Automatic result columns for searched attributes and related genome metadata.
+- **Segment** display for Orthomyxoviridae, **Lineage** for influenza B, and independent column visibility by grid.
+- **Edit Search** and preservation of selections through navigation, refresh, and bookmarking (same-tab fallback for very large searches).
+
+See [What's New for Influenza](02_whats_new_for_influenza_360.md) for a more detailed summary and [Getting Started with Influenza](01_getting_started_with_influenza.md) for a beginner workflow.
+
+## Unified downloads
+Main-table **DOWNLOAD** actions open the same three-step wizard: choose data type, records, and format options. Leaving rows unselected downloads the whole result set. FASTA exports support configurable fields and delimiters, custom header format strings, previews, validation, and saved presets. **Copy curl** produces the equivalent configured command.
+
+## Saved searches
+Results-table **SAVE** stores searches in Workspaces. Saved searches are available across browsers, display their criteria when reopened, and restore up to **1,000 selected rows** where they still match. Influenza searches can be edited after reopening.
+
+## BV-BRC Copilot
+A conversational assistant is accessible through **Tools & Services → AI → Chat** or a floating window. In Plan mode, it prepares jobs or genome groups and requests approval before submission or writing. Multi-step plans can be approved, skipped, or retried by step. The interface remembers approval state and floating-window size and adapts to narrower screens.
+
+**Availability depends on deployment of the matching Copilot API gateway and orchestrator.**
+
+## New and expanded analysis capabilities
+- **Protein-Protein Interface Prediction:** New service for predicting interacting residues between two sets of protein sequences, using FASTA files, BV-BRC protein IDs, or pasted sequences.
+- **Synteny Graph:** Expanded data types, revised interface, and phylogenetic-tree rendering in the graph viewer.
+- **Genome Tree and MSA:** Accept segmented genome groups with per-group segment selection and clearer shared-control behavior.
+- **Archaeopteryx 3.28:** Corrected labels and controls; trees rebuild when inputs change.
+- **Viral Genome Tree:** Fixed column compression and label wrapping.
+- **MSA:** Fixed genome-ID parsing and large uploaded FASTA validation; added segmented-report navigation.
+
+## Job submission and results fixes
+- **RNA-Seq, Fastq Utilities, Variation:** Fixed read-library selections leaking into later job submissions (BVBRC-4176).
+- **Fastq Utilities:** Added aligner and host-species choices for host removal.
+- **Jobs:** Completed PredictStructure jobs now offer a **REPORT** action.
+- **MetaCATS:** Fixed feature accession display, restored rerun details, and added loading feedback for feature groups.
+- **Genome browser:** Fixed empty-looking BAM tracks for RNA-Seq jobs using the Host recipe.
+
+## Data views and interface fixes
+- Applicable genome-list filters now carry into Sequences, Features, and Proteins tabs; unsupported criteria are disclosed when a destination tab cannot apply them.
+- Fixed unrelated taxon content remaining visible during navigation.
+- Restored column picker controls to grids including Experiments and Biosets.
+- Compare Region Viewer adds **Systems-ortholog groups (SOGs)** coloring.
+
+## Reliability
+- The frontend supports retrying busy data-API requests using server-specified waiting intervals and reports rejected requests rather than showing misleading empty results.
+- Oversized genome queries return guidance to narrow the search.
+- Dependency updates were made across ten transitive packages.
+
+**Deployment note:** The 429 retry feature is gated by `enableThrottleRetry`, which defaults to **off**; do not assume it is enabled on all deployments.
+
+## Known deployment considerations (internal review; omit from public posting if inappropriate)
+- Copilot needs a compatible API gateway and orchestrator.
+- Codon Tree PR #1503 was merged to master but not alpha; cherry-pick before merging to avoid reverting DNA/Protein/Both sequence selection and compact gene-limit fields.
+- Trial merge conflicts are limited to `package.json`, `package-lock.json`, and `jest.config.json`; retain the master Jest test-root addition.
+
+## Contributors
+Clark Cucinell, Robert Olson, Mehmet O. Kuscuoglu, Andrew Warren, Chris Escobar, Andreas Wilke, and J. Sheriff.
+
+**Prepublication review:** Verify deployment-specific features and decide whether internal deployment notes belong in a separate engineering changelog. No legacy genome group migration or deprecation policy is asserted here.
