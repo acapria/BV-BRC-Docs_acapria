@@ -2,13 +2,13 @@
     {
     "title": "BV-BRC Latest Release",
     "desc": "Explore new influenza search features, expanded viral analysis, and improved bioinformatics workflows.",
-    "link": "https://www.bv-brc.org/docs/news/2026/2026-10-14-Release-notes.html"
+    "link": "https://www.bv-brc.org/docs/news/2026/2026-11-17-2026-release-notes.html"
     },
     {
-        "title": "NIAID-BRCs AI Codeathon 2.0",
-        "desc": "Register and learn more about our upcoming codeathon in September.",
-        "img": "https://www.bv-brc.org/docs/_images/ai_codeathon.png",
-        "link": "https://niaid-brc-codeathons.github.io/"
+        "title": "Tools for Tomorrow Infectious Disease Webinar Series",
+        "desc": "Sign up now for our monthly cross BRC Webinar Series to hear updates from each BRC.",
+        "img": "https://www.bv-brc.org/docs/_images/tools_for_tomorrow_registration.png",
+        "link": "https://www.bv-brc.org/docs/news/2025/2025-09-22-BRC-Webinar-Series.html"
     },
     {
         "title": "Ebola 2026- Phylogenetic Analysis",
@@ -21,12 +21,6 @@
         "desc": "Review data and phylogenetic trees generated.",
         "img": "https://www.bv-brc.org/docs/_images/Hantavirus_2026_Outbreak.png",
         "link": "https://www.bv-brc.org/docs/news/2026/2026-05-15-Hantavirus-Outbreak.html"
-    },
-    {
-        "title": "Tools for Tomorrow Infectious Disease Webinar Series",
-        "desc": "Sign up now for our monthly cross BRC Webinar Series to hear updates from each BRC.",
-        "img": "https://www.bv-brc.org/docs/_images/tools_for_tomorrow_registration.png",
-        "link": "https://www.bv-brc.org/docs/news/2025/2025-09-22-BRC-Webinar-Series.html"
     },
     {
         "title": "BV-BRC Quick Start Guides",
