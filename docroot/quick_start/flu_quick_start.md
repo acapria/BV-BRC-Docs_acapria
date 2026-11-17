@@ -1,7 +1,6 @@
 # Getting Started with Influenza Data in BV-BRC
 
-**Audience:** Researchers new to BV-BRC  
-**Type:** Evergreen, beginner-friendly tutorial  
+**Audience:** Researchers new to BV-BRC    
 **Status:** Draft; capture screenshots and verify navigation in the deployed site
 
 ## What you will learn
@@ -68,7 +67,38 @@ Use **SAVE** in the green results action bar. Find saved searches in **Workspace
 
 **[Screenshot 8: SAVE and Workspaces.]**
 
-## 10. Where to go next
-- To compare homologous influenza segments, consult the Multiple Sequence Alignment (MSA) tutorial.
-- To explore evolutionary relationships, consult Genome Tree and other relevant phylogenetic tutorials.
-- For advanced searching and exports, see the Influenza Search reference and Download Wizard guide.
+## 10. Where to go next: Influenza analysis tools and workflows
+
+Once you have identified influenza genomes or sequences of interest, BV-BRC provides tools for comparing sequences, investigating evolutionary relationships, identifying mutations, and analyzing newly generated sequencing data.
+
+### Sequence comparison and variation analysis
+
+- **[Multiple Sequence Alignment (MSA) and SNP Analysis](https://www.bv-brc.org/docs/quick_references/services/msa_snp_variation_service.html):** Align influenza nucleotide or protein sequences to identify conserved regions, substitutions, and other sequence differences. For segmented influenza genomes, select homologous segments, such as HA or NA, for comparison.
+- **[BLAST](https://www.bv-brc.org/docs/tutorial/):** Compare an influenza nucleotide or protein sequence against sequences in BV-BRC to identify similar sequences and investigate sequence relationships.
+- **[Meta-CATS](https://www.bv-brc.org/docs/tutorial/metacats/metacats.html):** Identify alignment positions that differ significantly between groups of sequences. For example, compare HA sequences from different hosts, geographic regions, or time periods.
+- **[Primer Design](https://www.bv-brc.org/docs/tutorial/primer_design/primer_design.html):** Design primers for selected influenza sequences, including targets of interest for PCR-based applications.
+
+### Phylogenetics, classification, and reassortment
+
+- **[Viral Genome Tree and Gene/Protein Tree](https://www.bv-brc.org/docs/quick_references/organisms_taxon/phylogeny.html):** Explore evolutionary relationships among influenza sequences or genomes. Segment-specific phylogenies can help researchers investigate relationships among influenza isolates.
+- **[Influenza Reassortment Analysis (TreeSort)](https://www.bv-brc.org/docs/quick_references/services/treesort_service.html):** Investigate potential reassortment events by comparing evolutionary relationships across influenza genome segments.
+- **[Subspecies Classification](https://www.bv-brc.org/docs/quick_references/services_menu.html):** Explore supported influenza clade classification workflows, including relevant H1, H3, and H5 classifications.
+- **[Influenza HA Subtype Numbering Conversion](https://www.bv-brc.org/docs/quick_references/services_menu.html):** Convert HA amino acid positions between supported influenza numbering conventions to facilitate comparison of mutations across strains and subtypes.
+
+### Influenza sequencing and data submission
+
+- **[Viral Assembly](https://www.bv-brc.org/docs/tutorial/viral_assembly/assembly.html):** Assemble influenza virus sequences from raw sequencing reads using the IRMA-based Viral Assembly Service. The service includes influenza-specific analysis modules for different virus types and sequencing technologies.
+- **[Influenza Sequence Submission](https://www.bv-brc.org/docs/quick_references/services_menu.html):** Access the influenza sequence submission service for supported data submission workflows.
+
+### Influenza surveillance and outbreak investigation
+
+- **[Influenza H5N1 Outbreak Tracker](https://www.bv-brc.org/):** Explore curated outbreak information and associated influenza data to support surveillance and research.
+- **[Influenza Search](https://www.bv-brc.org/):** Refine searches using subtype, host, geographic location, collection metadata, and genome segment availability. Researchers can use these results as a starting point for downstream analyses.
+
+### Additional BV-BRC resources
+
+- **[BV-BRC Tutorials](https://www.bv-brc.org/docs/tutorial/):** Step-by-step instructions for analysis services and common research workflows.
+- **[Tools and Services Quick References](https://www.bv-brc.org/docs/quick_references/services_menu.html):** Overview of available tools, input requirements, and service functionality.
+- **[Instructional Videos](https://www.bv-brc.org/docs/videos/index.html):** Video demonstrations of searching, filtering, workspaces, and analysis services.
+
+**Suggested starting point:** New users may begin by finding influenza HA sequences, downloading them in FASTA format, and using MSA to compare sequences. From there, they can explore phylogenetic relationships, investigate sequence variation with Meta-CATS, or use influenza-specific tools for reassortment and classification.
